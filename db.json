@@ -1,0 +1,2603 @@
+{
+  "query": {
+    "tupple": [
+      {
+        "MONGO_ID": "5ca209d4338d4d0f512ba8de",
+        "followupCurrentStatus": "CL",
+        "CONTACT_DETAILS": {
+          "NAME": "Shyam Kumar",
+          "EMAIL": "shyamkumar@propmart.com",
+          "PHONE": "91-9971355227",
+          "RAW_PHONE": "91-9971355227",
+          "IDENTITY": "Dealer",
+          "PHONE_VERIFICATION_STATUS": "VERIFIED",
+          "EMAIL_VERIFICATION_STATUS": "UNVALIDATED"
+        },
+        "superProfileId": 15269823,
+        "subProfileId": 15269823,
+        "PROFILEID": 15269823,
+        "LEAD_SCORE": 3,
+        "BUYER_PROFILE_ID": 31698461,
+        "LEAD_DETAIL_URL": "https://www.99acres.com/leadgradient/dashboard?q=aCJBah1yd9xGiAtC%2BQNd0A%2FLF7dYprJnmaTiEXwc6i4kNvVOaxLjU5gbzgYa9AxYb8Lwln4R5Eg9FsTvN9mXvU5F%2BE9cvloXwuEHoI3NGGnlqLEgQ1w4Pqo%2B%2Bzp9%2FcIQ",
+        "QUERY": "",
+        "NEW_TAG": "N",
+        "PRODUCT_ID": "A42072569",
+        "RESPONSE_TYPE": "query",
+        "RECEIVED_ON": "01-Apr-2019",
+        "intentVerificationStatus": null,
+        "PRODUCT_DETAILS": {
+          "ID": "A42072569",
+          "STATUS": "Deleted",
+          "COMPACT_LABEL": "Rs. 45 Lac, 2 Bed, Apartment for Sale in Aims Golf Avenue 2, Sector-75 Noida ",
+          "TYPE": "Platinum Listings: A42072569",
+          "PROJ_ID": null,
+          "PROFILEID": "15269823"
+        },
+        "QUESTIONNAIRE": [
+          {
+            "QUESTION_KEY": "DECISION_TIME",
+            "QUESTION_LABEL": "Planning to Buy within",
+            "ANSWERED": null,
+            "ANSWER_OPTIONS": [
+              "Within 3 months",
+              "Within 6 months",
+              "More than 6 months"
+            ]
+          },
+          {
+            "QUESTION_KEY": "SITE_VISIT",
+            "QUESTION_LABEL": "Interested in Site Visit?",
+            "ANSWERED": null,
+            "ANSWER_OPTIONS": [
+              "Yes",
+              "No"
+            ]
+          }
+        ],
+        "QUERY_ID": "QUERY-91122903"
+      },
+      {
+        "MONGO_ID": "5ca0dfcf345b2c581da9a970",
+        "followupCurrentStatus": "NW",
+        "CONTACT_DETAILS": {
+          "NAME": "Rajesh Kumar",
+          "EMAIL": "rajesh15292@gmail.com",
+          "PHONE": "91-9466136760",
+          "RAW_PHONE": "91-9466136760",
+          "IDENTITY": "Individual",
+          "PHONE_VERIFICATION_STATUS": "VERIFIED",
+          "EMAIL_VERIFICATION_STATUS": "UNVALIDATED"
+        },
+        "superProfileId": 15269823,
+        "subProfileId": 15269823,
+        "PROFILEID": 15269823,
+        "LEAD_SCORE": 3,
+        "BUYER_PROFILE_ID": 37898081,
+        "LEAD_DETAIL_URL": "https://www.99acres.com/leadgradient/dashboard?q=hsSDqftJmXVvcesczx7JzhdIGkC75tC9zD9VPslIpZxVUFmOdsLGhWSt8humnmHM1ZH5oX21HZpO%2FNTX75Ad2RscH%2BbuqDWP7OdjKVD3muZvPgOPH08dr6DG7RwmFJ8i",
+        "QUERY": "I am interested in this property.",
+        "NEW_TAG": "N",
+        "PRODUCT_ID": "A42072569",
+        "RESPONSE_TYPE": "query",
+        "RECEIVED_ON": "31-Mar-2019",
+        "intentVerificationStatus": null,
+        "PRODUCT_DETAILS": {
+          "ID": "A42072569",
+          "STATUS": "Deleted",
+          "COMPACT_LABEL": "Rs. 45 Lac, 2 Bed, Apartment for Sale in Aims Golf Avenue 2, Sector-75 Noida ",
+          "TYPE": "Platinum Listings: A42072569",
+          "PROJ_ID": null,
+          "PROFILEID": "15269823"
+        },
+        "QUESTIONNAIRE": [
+          {
+            "QUESTION_KEY": "DECISION_TIME",
+            "QUESTION_LABEL": "Planning to Buy within",
+            "ANSWERED": "Within 3 months",
+            "ANSWER_OPTIONS": [
+              "Within 3 months",
+              "Within 6 months",
+              "More than 6 months"
+            ]
+          },
+          {
+            "QUESTION_KEY": "SITE_VISIT",
+            "QUESTION_LABEL": "Interested in Site Visit?",
+            "ANSWERED": "No",
+            "ANSWER_OPTIONS": [
+              "Yes",
+              "No"
+            ]
+          }
+        ],
+        "QUERY_ID": "QUERY-91083385"
+      },
+      {
+        "MONGO_ID": "5c9ec4cd338d4d0f51293b97",
+        "followupCurrentStatus": "NW",
+        "CONTACT_DETAILS": {
+          "NAME": "Ankit",
+          "EMAIL": "Ankitrohilla.m.b.a@gmail.com",
+          "PHONE": "91-9717473356",
+          "RAW_PHONE": "91-9717473356",
+          "IDENTITY": "Individual",
+          "PHONE_VERIFICATION_STATUS": "VERIFIED",
+          "EMAIL_VERIFICATION_STATUS": "VERIFIED"
+        },
+        "superProfileId": 15269823,
+        "subProfileId": 15269823,
+        "PROFILEID": 15269823,
+        "LEAD_SCORE": 3,
+        "BUYER_PROFILE_ID": 10276311,
+        "LEAD_DETAIL_URL": "https://www.99acres.com/leadgradient/dashboard?q=105LpODuAZWaDCZXtT3VAtT8dRhxUbeTJZcGGQc62EfqhI132hCMMKoDuN054bjyz6jM5yEeb6WmS2cT%2FZGxkF92rezb%2F1aFKzHnNRB2D17FM6Luvt%2FDtjfyhdCbG9Vd",
+        "QUERY": "I am interested in this property. Sent from 99acres Mobile.",
+        "NEW_TAG": "N",
+        "PRODUCT_ID": "A42072569",
+        "RESPONSE_TYPE": "query",
+        "RECEIVED_ON": "30-Mar-2019",
+        "intentVerificationStatus": null,
+        "PRODUCT_DETAILS": {
+          "ID": "A42072569",
+          "STATUS": "Deleted",
+          "COMPACT_LABEL": "Rs. 45 Lac, 2 Bed, Apartment for Sale in Aims Golf Avenue 2, Sector-75 Noida ",
+          "TYPE": "Platinum Listings: A42072569",
+          "PROJ_ID": null,
+          "PROFILEID": "15269823"
+        },
+        "QUESTIONNAIRE": [
+          {
+            "QUESTION_KEY": "DECISION_TIME",
+            "QUESTION_LABEL": "Planning to Buy within",
+            "ANSWERED": "Within 3 months",
+            "ANSWER_OPTIONS": [
+              "Within 3 months",
+              "Within 6 months",
+              "More than 6 months"
+            ]
+          },
+          {
+            "QUESTION_KEY": "SITE_VISIT",
+            "QUESTION_LABEL": "Interested in Site Visit?",
+            "ANSWERED": "Yes",
+            "ANSWER_OPTIONS": [
+              "Yes",
+              "No"
+            ]
+          }
+        ],
+        "QUERY_ID": "QUERY-91000921"
+      },
+      {
+        "MONGO_ID": "5c9e60cf338d4d0f51292fd6",
+        "followupCurrentStatus": "NW",
+        "CONTACT_DETAILS": {
+          "NAME": "Akshay",
+          "EMAIL": "akshay8x10@gmail.com",
+          "PHONE": "91-8446628107",
+          "RAW_PHONE": "91-8446628107",
+          "IDENTITY": "Dealer",
+          "PHONE_VERIFICATION_STATUS": "VERIFIED",
+          "EMAIL_VERIFICATION_STATUS": "VERIFIED"
+        },
+        "superProfileId": 15269823,
+        "subProfileId": 15269823,
+        "PROFILEID": 15269823,
+        "LEAD_SCORE": 4.5,
+        "BUYER_PROFILE_ID": 18843203,
+        "LEAD_DETAIL_URL": "https://www.99acres.com/leadgradient/dashboard?q=hwsEfediMCJps%2FPeOXPCA1RaHLge2VbaUWCxs53OzvzIZQeLF0lvz6tXpY5Ch9Lz5PBd0WfiX%2FZ3D%2BiFbluNHPGkzIq2TwKhSyTApqLBFereOeyWcPwBOjrZ%2BjqOjaam",
+        "QUERY": "",
+        "NEW_TAG": "N",
+        "PRODUCT_ID": "W42113141",
+        "RESPONSE_TYPE": "query",
+        "RECEIVED_ON": "29-Mar-2019",
+        "intentVerificationStatus": null,
+        "PRODUCT_DETAILS": {
+          "ID": "W42113141",
+          "STATUS": "Deleted",
+          "COMPACT_LABEL": "Available on Request, 2 Bed, Apartment for Sale in Ajnara Daffodil, Sector-137 Noida ",
+          "TYPE": "Platinum Listings: W42113141",
+          "PROJ_ID": null,
+          "PROFILEID": "15269823"
+        },
+        "QUESTIONNAIRE": [
+          {
+            "QUESTION_KEY": "DECISION_TIME",
+            "QUESTION_LABEL": "Planning to Buy within",
+            "ANSWERED": null,
+            "ANSWER_OPTIONS": [
+              "Within 3 months",
+              "Within 6 months",
+              "More than 6 months"
+            ]
+          },
+          {
+            "QUESTION_KEY": "SITE_VISIT",
+            "QUESTION_LABEL": "Interested in Site Visit?",
+            "ANSWERED": null,
+            "ANSWER_OPTIONS": [
+              "Yes",
+              "No"
+            ]
+          }
+        ],
+        "QUERY_ID": "QUERY-90996209"
+      },
+      {
+        "MONGO_ID": "5c9e042d338d4d0f5128f2e0",
+        "followupCurrentStatus": "NW",
+        "CONTACT_DETAILS": {
+          "NAME": "Sanjib Kumar Baishya",
+          "EMAIL": "sanjibzhcassam@gmail.com",
+          "PHONE": "91-9911888598",
+          "RAW_PHONE": "91-9911888598",
+          "IDENTITY": "Dealer",
+          "PHONE_VERIFICATION_STATUS": "VERIFIED",
+          "EMAIL_VERIFICATION_STATUS": "UNVALIDATED"
+        },
+        "superProfileId": 15269823,
+        "subProfileId": 15269823,
+        "PROFILEID": 15269823,
+        "LEAD_SCORE": 3,
+        "BUYER_PROFILE_ID": 27797553,
+        "LEAD_DETAIL_URL": "https://www.99acres.com/leadgradient/dashboard?q=BjIZyyZYNtmqjc04Mc4k4ocfGAfi4jqA6R11flp8gYu%2BN41Uh5kcHpXN6wF5t3Wwl2lTrnZeF9uQ1bJmL1YrKkthwgcPtA0rGvmfTuzUpqkP%2FlvarCf0AIUipJeJAYAz",
+        "QUERY": "",
+        "NEW_TAG": "N",
+        "PRODUCT_ID": "G42080075",
+        "RESPONSE_TYPE": "query",
+        "RECEIVED_ON": "29-Mar-2019",
+        "intentVerificationStatus": null,
+        "PRODUCT_DETAILS": {
+          "ID": "G42080075",
+          "STATUS": "Deleted",
+          "COMPACT_LABEL": "Rs. 34 Lac, 2 Bed, Apartment for Sale in Dasnac The Jewel of Noida, Sector-75 Noida ",
+          "TYPE": "Platinum Listings: G42080075",
+          "PROJ_ID": null,
+          "PROFILEID": "15269823"
+        },
+        "QUESTIONNAIRE": [
+          {
+            "QUESTION_KEY": "DECISION_TIME",
+            "QUESTION_LABEL": "Planning to Buy within",
+            "ANSWERED": null,
+            "ANSWER_OPTIONS": [
+              "Within 3 months",
+              "Within 6 months",
+              "More than 6 months"
+            ]
+          },
+          {
+            "QUESTION_KEY": "SITE_VISIT",
+            "QUESTION_LABEL": "Interested in Site Visit?",
+            "ANSWERED": null,
+            "ANSWER_OPTIONS": [
+              "Yes",
+              "No"
+            ]
+          }
+        ],
+        "QUERY_ID": "QUERY-90982019"
+      },
+      {
+        "MONGO_ID": "5c9d233f345b2c581da71e61",
+        "followupCurrentStatus": "NW",
+        "CONTACT_DETAILS": {
+          "NAME": "Nidhi",
+          "EMAIL": "imdbest.nidhi@gmail.com",
+          "PHONE": "91-8700545434",
+          "RAW_PHONE": "91-8700545434",
+          "IDENTITY": "Individual",
+          "PHONE_VERIFICATION_STATUS": "VERIFIED",
+          "EMAIL_VERIFICATION_STATUS": "VERIFIED"
+        },
+        "superProfileId": 15269823,
+        "subProfileId": 15269823,
+        "PROFILEID": 15269823,
+        "LEAD_SCORE": 3,
+        "BUYER_PROFILE_ID": 6373051,
+        "LEAD_DETAIL_URL": "https://www.99acres.com/leadgradient/dashboard?q=foP1DSrNfGU1ae1W855x9yfu%2FOeaoSEg2uNvgJuMb%2BpTystvbl%2BujF2HLOuxDivtiC0wtJ7ylqlmyuh%2BwHtyXfxwBEeU5ixl6PUe1qXS74Nb%2BIeSkJJt0N6Ud5%2FGESl%2B",
+        "QUERY": "I am interested in this property",
+        "NEW_TAG": "N",
+        "PRODUCT_ID": "G42080075",
+        "RESPONSE_TYPE": "query",
+        "RECEIVED_ON": "29-Mar-2019",
+        "intentVerificationStatus": null,
+        "PRODUCT_DETAILS": {
+          "ID": "G42080075",
+          "STATUS": "Deleted",
+          "COMPACT_LABEL": "Rs. 34 Lac, 2 Bed, Apartment for Sale in Dasnac The Jewel of Noida, Sector-75 Noida ",
+          "TYPE": "Platinum Listings: G42080075",
+          "PROJ_ID": null,
+          "PROFILEID": "15269823"
+        },
+        "QUESTIONNAIRE": [
+          {
+            "QUESTION_KEY": "DECISION_TIME",
+            "QUESTION_LABEL": "Planning to Buy within",
+            "ANSWERED": null,
+            "ANSWER_OPTIONS": [
+              "Within 3 months",
+              "Within 6 months",
+              "More than 6 months"
+            ]
+          },
+          {
+            "QUESTION_KEY": "SITE_VISIT",
+            "QUESTION_LABEL": "Interested in Site Visit?",
+            "ANSWERED": null,
+            "ANSWER_OPTIONS": [
+              "Yes",
+              "No"
+            ]
+          }
+        ],
+        "QUERY_ID": "QUERY-90956675"
+      },
+      {
+        "MONGO_ID": "5c9b445e338d4d0f51270cfd",
+        "followupCurrentStatus": "CN",
+        "CONTACT_DETAILS": {
+          "NAME": "Hamid",
+          "EMAIL": "hamid.m.saeed@gmail.com",
+          "PHONE": "91-9560424347",
+          "RAW_PHONE": "91-9560424347",
+          "IDENTITY": "Individual",
+          "PHONE_VERIFICATION_STATUS": "VERIFIED",
+          "EMAIL_VERIFICATION_STATUS": "UNVALIDATED"
+        },
+        "superProfileId": 15269823,
+        "subProfileId": 15269823,
+        "PROFILEID": 15269823,
+        "LEAD_SCORE": 5,
+        "BUYER_PROFILE_ID": 37688491,
+        "LEAD_DETAIL_URL": "https://www.99acres.com/leadgradient/dashboard?q=wuMcKuOs3TLoPyfeyH%2FifXhpd0vBVi4BXi8B0bMkemnCjF0yydOSQt5qA2yMbI30RCZyDEqK18vm692aPXcyQ7S%2FGEuPsEvtOG43nqfI2rlzVfzc1W%2FR0GRcH%2Bb%2BKMFU",
+        "QUERY": "I am interested in this property",
+        "NEW_TAG": "N",
+        "PRODUCT_ID": "W42113141",
+        "RESPONSE_TYPE": "query",
+        "RECEIVED_ON": "27-Mar-2019",
+        "intentVerificationStatus": null,
+        "PRODUCT_DETAILS": {
+          "ID": "W42113141",
+          "STATUS": "Deleted",
+          "COMPACT_LABEL": "Available on Request, 2 Bed, Apartment for Sale in Ajnara Daffodil, Sector-137 Noida ",
+          "TYPE": "Platinum Listings: W42113141",
+          "PROJ_ID": null,
+          "PROFILEID": "15269823"
+        },
+        "QUESTIONNAIRE": [
+          {
+            "QUESTION_KEY": "DECISION_TIME",
+            "QUESTION_LABEL": "Planning to Buy within",
+            "ANSWERED": null,
+            "ANSWER_OPTIONS": [
+              "Within 3 months",
+              "Within 6 months",
+              "More than 6 months"
+            ]
+          },
+          {
+            "QUESTION_KEY": "SITE_VISIT",
+            "QUESTION_LABEL": "Interested in Site Visit?",
+            "ANSWERED": null,
+            "ANSWER_OPTIONS": [
+              "Yes",
+              "No"
+            ]
+          }
+        ],
+        "QUERY_ID": "QUERY-90889703"
+      },
+      {
+        "MONGO_ID": "5c9a68e6345b2c581da55215",
+        "followupCurrentStatus": "CN",
+        "CONTACT_DETAILS": {
+          "NAME": "Sid",
+          "EMAIL": "sidhant.88600@gmail.com",
+          "PHONE": "91-9716074388",
+          "RAW_PHONE": "91-9716074388",
+          "IDENTITY": "Individual",
+          "PHONE_VERIFICATION_STATUS": "VERIFIED",
+          "EMAIL_VERIFICATION_STATUS": "UNVALIDATED"
+        },
+        "superProfileId": 15269823,
+        "subProfileId": 15269823,
+        "PROFILEID": 15269823,
+        "LEAD_SCORE": 3,
+        "BUYER_PROFILE_ID": 37830919,
+        "LEAD_DETAIL_URL": "https://www.99acres.com/leadgradient/dashboard?q=xbZExDk8oenPo3AwrU95m6r%2FFPpDIOopmfnBfOPYTxXwWMUTAaJ9VY4Ozm8KGFGfOscuiGTH%2BScQWbJzpz15Uq9ekH0p1ZcUDzLi0k6D5LUfT5RUAGGVYqKwRS6%2ByMdw",
+        "QUERY": "I am interested in this property.",
+        "NEW_TAG": "N",
+        "PRODUCT_ID": "G42080075",
+        "RESPONSE_TYPE": "query",
+        "RECEIVED_ON": "26-Mar-2019",
+        "intentVerificationStatus": null,
+        "PRODUCT_DETAILS": {
+          "ID": "G42080075",
+          "STATUS": "Deleted",
+          "COMPACT_LABEL": "Rs. 34 Lac, 2 Bed, Apartment for Sale in Dasnac The Jewel of Noida, Sector-75 Noida ",
+          "TYPE": "Platinum Listings: G42080075",
+          "PROJ_ID": null,
+          "PROFILEID": "15269823"
+        },
+        "QUESTIONNAIRE": [
+          {
+            "QUESTION_KEY": "DECISION_TIME",
+            "QUESTION_LABEL": "Planning to Buy within",
+            "ANSWERED": null,
+            "ANSWER_OPTIONS": [
+              "Within 3 months",
+              "Within 6 months",
+              "More than 6 months"
+            ]
+          },
+          {
+            "QUESTION_KEY": "SITE_VISIT",
+            "QUESTION_LABEL": "Interested in Site Visit?",
+            "ANSWERED": null,
+            "ANSWER_OPTIONS": [
+              "Yes",
+              "No"
+            ]
+          }
+        ],
+        "QUERY_ID": "QUERY-90866387"
+      },
+      {
+        "MONGO_ID": "5c993e11338d4d0f5125ba7c",
+        "followupCurrentStatus": "CN",
+        "CONTACT_DETAILS": {
+          "NAME": "Manju",
+          "EMAIL": "manjubhgw@gmail.com",
+          "PHONE": "91-8750249556",
+          "RAW_PHONE": "91-8750249556",
+          "IDENTITY": "Individual",
+          "PHONE_VERIFICATION_STATUS": "VERIFIED",
+          "EMAIL_VERIFICATION_STATUS": "UNVALIDATED"
+        },
+        "superProfileId": 15269823,
+        "subProfileId": 15269823,
+        "PROFILEID": 15269823,
+        "LEAD_SCORE": 3,
+        "BUYER_PROFILE_ID": 34287621,
+        "LEAD_DETAIL_URL": "https://www.99acres.com/leadgradient/dashboard?q=MP7L9u2099A7%2FaSUXoOFvL%2F0paTBZN1q5kQEjLayXdvILSk7y77GEUr%2BDNIJ%2BpeHZyxrisBjMUsDIZyE7QJSJdROYz%2FWtIL8zUiHXswM1wdV7d8yy88iuBrfz%2Brk1TCD",
+        "QUERY": "I am interested in this property",
+        "NEW_TAG": "N",
+        "PRODUCT_ID": "R42126377",
+        "RESPONSE_TYPE": "query",
+        "RECEIVED_ON": "26-Mar-2019",
+        "intentVerificationStatus": null,
+        "PRODUCT_DETAILS": {
+          "ID": "R42126377",
+          "STATUS": "Deleted",
+          "COMPACT_LABEL": "Available on Request, 2 Bed, Apartment for Sale in Ajnara Daffodil, Sector-137 Noida ",
+          "TYPE": "Platinum Listings: R42126377",
+          "PROJ_ID": null,
+          "PROFILEID": "15269823"
+        },
+        "QUESTIONNAIRE": [
+          {
+            "QUESTION_KEY": "DECISION_TIME",
+            "QUESTION_LABEL": "Planning to Buy within",
+            "ANSWERED": null,
+            "ANSWER_OPTIONS": [
+              "Within 3 months",
+              "Within 6 months",
+              "More than 6 months"
+            ]
+          },
+          {
+            "QUESTION_KEY": "SITE_VISIT",
+            "QUESTION_LABEL": "Interested in Site Visit?",
+            "ANSWERED": null,
+            "ANSWER_OPTIONS": [
+              "Yes",
+              "No"
+            ]
+          }
+        ],
+        "QUERY_ID": "QUERY-90823849"
+      },
+      {
+        "MONGO_ID": "5c98767f338d4d0f51250e69",
+        "followupCurrentStatus": "IN",
+        "CONTACT_DETAILS": {
+          "NAME": "Sumit",
+          "EMAIL": "mausumit@gmail.com",
+          "PHONE": "91-8010449160",
+          "RAW_PHONE": "91-8010449160",
+          "IDENTITY": "Individual",
+          "PHONE_VERIFICATION_STATUS": "VERIFIED",
+          "EMAIL_VERIFICATION_STATUS": "UNVALIDATED"
+        },
+        "superProfileId": 15269823,
+        "subProfileId": 15269823,
+        "PROFILEID": 15269823,
+        "LEAD_SCORE": 4,
+        "BUYER_PROFILE_ID": 35500495,
+        "LEAD_DETAIL_URL": "https://www.99acres.com/leadgradient/dashboard?q=LtezvwSTUEpLrsB%2BEgkG6NMpEKjJdYIwqr7cvuuG0zwLkGKw4pZjj6XLIuVe15JJwwV6ze9KxRvVGzN3FuoTczGrc1zTp2WuMluZ7zErAYGD56LajFJP%2Fvv%2Fmr7jZcx%2B",
+        "QUERY": "",
+        "NEW_TAG": "N",
+        "PRODUCT_ID": "T42067735",
+        "RESPONSE_TYPE": "query",
+        "RECEIVED_ON": "25-Mar-2019",
+        "intentVerificationStatus": null,
+        "PRODUCT_DETAILS": {
+          "ID": "T42067735",
+          "STATUS": "Deleted",
+          "COMPACT_LABEL": "Rs. 45 Lac, Land for Sale in Sector-37 Noida ",
+          "TYPE": "Platinum Listings: T42067735",
+          "PROJ_ID": null,
+          "PROFILEID": "15269823"
+        },
+        "QUESTIONNAIRE": [
+          {
+            "QUESTION_KEY": "DECISION_TIME",
+            "QUESTION_LABEL": "Planning to Buy within",
+            "ANSWERED": null,
+            "ANSWER_OPTIONS": [
+              "Within 3 months",
+              "Within 6 months",
+              "More than 6 months"
+            ]
+          },
+          {
+            "QUESTION_KEY": "SITE_VISIT",
+            "QUESTION_LABEL": "Interested in Site Visit?",
+            "ANSWERED": null,
+            "ANSWER_OPTIONS": [
+              "Yes",
+              "No"
+            ]
+          }
+        ],
+        "QUERY_ID": "QUERY-90787657"
+      },
+      {
+        "MONGO_ID": "5c97bd66345b2c581da37e23",
+        "followupCurrentStatus": "CN",
+        "CONTACT_DETAILS": {
+          "NAME": "H S Sharma",
+          "EMAIL": "Harishankersharma1959@gmail.com",
+          "PHONE": "91-9868133031",
+          "RAW_PHONE": "91-9868133031",
+          "IDENTITY": "Individual",
+          "PHONE_VERIFICATION_STATUS": "VERIFIED",
+          "EMAIL_VERIFICATION_STATUS": "UNVALIDATED"
+        },
+        "superProfileId": 15269823,
+        "subProfileId": 29748783,
+        "PROFILEID": 29748783,
+        "LEAD_SCORE": null,
+        "BUYER_PROFILE_ID": 22297153,
+        "QUERY": "",
+        "NEW_TAG": "N",
+        "PRODUCT_ID": "F42085103",
+        "RESPONSE_TYPE": "query",
+        "RECEIVED_ON": "24-Mar-2019",
+        "intentVerificationStatus": null,
+        "PRODUCT_DETAILS": {
+          "ID": "F42085103",
+          "STATUS": "Deleted",
+          "COMPACT_LABEL": "Rs. 12000, 3 Bed, Apartment for PG in 3C Knowledge Boulevard, Sector-62 Noida ",
+          "TYPE": "Platinum Listings: F42085103",
+          "PROJ_ID": null,
+          "PROFILEID": "15269823"
+        },
+        "QUESTIONNAIRE": [
+          {
+            "QUESTION_KEY": "DECISION_TIME",
+            "QUESTION_LABEL": "Planning to Buy within",
+            "ANSWERED": null,
+            "ANSWER_OPTIONS": [
+              "Within 3 months",
+              "Within 6 months",
+              "More than 6 months"
+            ]
+          },
+          {
+            "QUESTION_KEY": "SITE_VISIT",
+            "QUESTION_LABEL": "Interested in Site Visit?",
+            "ANSWERED": null,
+            "ANSWER_OPTIONS": [
+              "Yes",
+              "No"
+            ]
+          }
+        ],
+        "QUERY_ID": "QUERY-90768827"
+      },
+      {
+        "MONGO_ID": "5c9705f8345b2c581da2b488",
+        "followupCurrentStatus": "NW",
+        "CONTACT_DETAILS": {
+          "NAME": "Sumit Rana",
+          "EMAIL": "sayartist@gmail.com",
+          "PHONE": "91-9818983494",
+          "RAW_PHONE": "91-9818983494",
+          "IDENTITY": "Individual",
+          "PHONE_VERIFICATION_STATUS": "VERIFIED",
+          "EMAIL_VERIFICATION_STATUS": "UNVALIDATED"
+        },
+        "superProfileId": 15269823,
+        "subProfileId": 15269823,
+        "PROFILEID": 15269823,
+        "LEAD_SCORE": 4,
+        "BUYER_PROFILE_ID": 37766805,
+        "LEAD_DETAIL_URL": "https://www.99acres.com/leadgradient/dashboard?q=%2BBx80wkUs5QyyDgibsNsLiOEtCnCtDRkw%2Bi9CsGJpp8%2FoAgTgkVuR3Wtl6A0%2BQ3DpNEhXXtTmlMimBR0PRoWx9EyHxdk1t5e6hGx4LymmgR75GdJKl8VPtWg2kRXlenM",
+        "QUERY": "",
+        "NEW_TAG": "N",
+        "PRODUCT_ID": "T42067735",
+        "RESPONSE_TYPE": "query",
+        "RECEIVED_ON": "24-Mar-2019",
+        "intentVerificationStatus": null,
+        "PRODUCT_DETAILS": {
+          "ID": "T42067735",
+          "STATUS": "Deleted",
+          "COMPACT_LABEL": "Rs. 45 Lac, Land for Sale in Sector-37 Noida ",
+          "TYPE": "Platinum Listings: T42067735",
+          "PROJ_ID": null,
+          "PROFILEID": "15269823"
+        },
+        "QUESTIONNAIRE": [
+          {
+            "QUESTION_KEY": "DECISION_TIME",
+            "QUESTION_LABEL": "Planning to Buy within",
+            "ANSWERED": null,
+            "ANSWER_OPTIONS": [
+              "Within 3 months",
+              "Within 6 months",
+              "More than 6 months"
+            ]
+          },
+          {
+            "QUESTION_KEY": "SITE_VISIT",
+            "QUESTION_LABEL": "Interested in Site Visit?",
+            "ANSWERED": null,
+            "ANSWER_OPTIONS": [
+              "Yes",
+              "No"
+            ]
+          }
+        ],
+        "QUERY_ID": "QUERY-90726983"
+      },
+      {
+        "MONGO_ID": "5c95f4d3345b2c581da212a0",
+        "followupCurrentStatus": "IN",
+        "CONTACT_DETAILS": {
+          "NAME": "Automationnametestlive",
+          "EMAIL": "testemailers99acres@gmail.com",
+          "PHONE": "91-9650234466",
+          "RAW_PHONE": "91-9650234466",
+          "IDENTITY": "Dealer",
+          "PHONE_VERIFICATION_STATUS": "VERIFIED",
+          "EMAIL_VERIFICATION_STATUS": "VERIFIED"
+        },
+        "superProfileId": 15269823,
+        "subProfileId": 15269823,
+        "PROFILEID": 15269823,
+        "LEAD_SCORE": 3,
+        "BUYER_PROFILE_ID": 15269823,
+        "LEAD_DETAIL_URL": "https://www.99acres.com/leadgradient/dashboard?q=SXujBVQSLzPfAgz%2FYE2N8pOltbOsf79BG%2F0wiESwj9Du0qeMeFEZDMYwhnHYoyzd19XbsHVnRaAB2JT6nVyNDkBD9yVlLfhYjqGTGeGAmDcia7Xb3qTYV6lH%2FglgrczOJ5bQ%2BDhpO0OKSZk206R%2FZg7Xvf39HWeW5p9slUYqp5A%3D",
+        "QUERY": "",
+        "NEW_TAG": "N",
+        "PRODUCT_ID": "D42140607",
+        "RESPONSE_TYPE": "query",
+        "RECEIVED_ON": "23-Mar-2019",
+        "intentVerificationStatus": null,
+        "PRODUCT_DETAILS": {
+          "ID": "D42140607",
+          "STATUS": "Underscreening",
+          "COMPACT_LABEL": "Rs. 34 Lac, 2 Bed, Apartment for Sale in Paras Tierea, Sector-137 Noida ",
+          "TYPE": "Platinum Listings: D42140607",
+          "PROJ_ID": null,
+          "PROFILEID": "15269823"
+        },
+        "QUESTIONNAIRE": [
+          {
+            "QUESTION_KEY": "DECISION_TIME",
+            "QUESTION_LABEL": "Planning to Buy within",
+            "ANSWERED": null,
+            "ANSWER_OPTIONS": [
+              "Within 3 months",
+              "Within 6 months",
+              "More than 6 months"
+            ]
+          },
+          {
+            "QUESTION_KEY": "SITE_VISIT",
+            "QUESTION_LABEL": "Interested in Site Visit?",
+            "ANSWERED": null,
+            "ANSWER_OPTIONS": [
+              "Yes",
+              "No"
+            ]
+          }
+        ],
+        "QUERY_ID": "QUERY-90688625"
+      },
+      {
+        "MONGO_ID": "5c939f6f345b2c581da0995a",
+        "followupCurrentStatus": "NW",
+        "CONTACT_DETAILS": {
+          "NAME": "Vivek Mahajan",
+          "EMAIL": "hitzpool@gmail.com",
+          "PHONE": "91-9910013776",
+          "RAW_PHONE": "91-9910013776",
+          "IDENTITY": "Individual",
+          "PHONE_VERIFICATION_STATUS": "VERIFIED",
+          "EMAIL_VERIFICATION_STATUS": "VERIFIED"
+        },
+        "superProfileId": 15269823,
+        "subProfileId": 15269823,
+        "PROFILEID": 15269823,
+        "LEAD_SCORE": 4,
+        "BUYER_PROFILE_ID": 28999935,
+        "LEAD_DETAIL_URL": "https://www.99acres.com/leadgradient/dashboard?q=ZigNsoCzl0QlQB97tpAecn%2ByhvaZF2ivvZ%2Bcle9TMOyCx6vmq%2FmfqREACK%2F0NB27fKbPsFVzXVA9aahsiqUyZZMtqafWw1VzIz9POSZtIjecEXex0entYqRgIEydVpVP",
+        "QUERY": "I am interested in this property",
+        "NEW_TAG": "N",
+        "PRODUCT_ID": "G42080075",
+        "RESPONSE_TYPE": "query",
+        "RECEIVED_ON": "21-Mar-2019",
+        "intentVerificationStatus": null,
+        "PRODUCT_DETAILS": {
+          "ID": "G42080075",
+          "STATUS": "Deleted",
+          "COMPACT_LABEL": "Rs. 34 Lac, 2 Bed, Apartment for Sale in Dasnac The Jewel of Noida, Sector-75 Noida ",
+          "TYPE": "Platinum Listings: G42080075",
+          "PROJ_ID": null,
+          "PROFILEID": "15269823"
+        },
+        "QUESTIONNAIRE": [
+          {
+            "QUESTION_KEY": "DECISION_TIME",
+            "QUESTION_LABEL": "Planning to Buy within",
+            "ANSWERED": null,
+            "ANSWER_OPTIONS": [
+              "Within 3 months",
+              "Within 6 months",
+              "More than 6 months"
+            ]
+          },
+          {
+            "QUESTION_KEY": "SITE_VISIT",
+            "QUESTION_LABEL": "Interested in Site Visit?",
+            "ANSWERED": null,
+            "ANSWER_OPTIONS": [
+              "Yes",
+              "No"
+            ]
+          }
+        ],
+        "QUERY_ID": "QUERY-90610933"
+      },
+      {
+        "MONGO_ID": "5c923fe7338d4d0f51214683",
+        "followupCurrentStatus": "NW",
+        "CONTACT_DETAILS": {
+          "NAME": "hanuman",
+          "EMAIL": "guptahanu884@gmail.com",
+          "PHONE": "91-9818456041",
+          "RAW_PHONE": "91-9818456041",
+          "IDENTITY": "Individual",
+          "PHONE_VERIFICATION_STATUS": "VERIFIED",
+          "EMAIL_VERIFICATION_STATUS": "UNVALIDATED"
+        },
+        "superProfileId": 15269823,
+        "subProfileId": 15269823,
+        "PROFILEID": 15269823,
+        "LEAD_SCORE": 3,
+        "BUYER_PROFILE_ID": 27503881,
+        "LEAD_DETAIL_URL": "https://www.99acres.com/leadgradient/dashboard?q=HPnJPmPY1Hw%2FPegeiH%2FVE7g5o3dEyDgqo8Bzqbgm0LNePUu04sNoadAWPBqThRuDDVZISqq7BaheY6dooRAV7eMD42GZ%2Bs6gQxJq%2FzgH8hL%2BnRLydDcvtDmSrk2RTs00",
+        "QUERY": "",
+        "NEW_TAG": "N",
+        "PRODUCT_ID": "G42080075",
+        "RESPONSE_TYPE": "query",
+        "RECEIVED_ON": "20-Mar-2019",
+        "intentVerificationStatus": null,
+        "PRODUCT_DETAILS": {
+          "ID": "G42080075",
+          "STATUS": "Deleted",
+          "COMPACT_LABEL": "Rs. 34 Lac, 2 Bed, Apartment for Sale in Dasnac The Jewel of Noida, Sector-75 Noida ",
+          "TYPE": "Platinum Listings: G42080075",
+          "PROJ_ID": null,
+          "PROFILEID": "15269823"
+        },
+        "QUESTIONNAIRE": [
+          {
+            "QUESTION_KEY": "DECISION_TIME",
+            "QUESTION_LABEL": "Planning to Buy within",
+            "ANSWERED": null,
+            "ANSWER_OPTIONS": [
+              "Within 3 months",
+              "Within 6 months",
+              "More than 6 months"
+            ]
+          },
+          {
+            "QUESTION_KEY": "SITE_VISIT",
+            "QUESTION_LABEL": "Interested in Site Visit?",
+            "ANSWERED": null,
+            "ANSWER_OPTIONS": [
+              "Yes",
+              "No"
+            ]
+          }
+        ],
+        "QUERY_ID": "QUERY-90571685"
+      },
+      {
+        "MONGO_ID": "5c923fdf345b2c581d9ffd68",
+        "followupCurrentStatus": "NW",
+        "CONTACT_DETAILS": {
+          "NAME": "hanuman",
+          "EMAIL": "guptahanu884@gmail.com",
+          "PHONE": "91-9818456041",
+          "RAW_PHONE": "91-9818456041",
+          "IDENTITY": "Individual",
+          "PHONE_VERIFICATION_STATUS": "VERIFIED",
+          "EMAIL_VERIFICATION_STATUS": "UNVALIDATED"
+        },
+        "superProfileId": 15269823,
+        "subProfileId": 15269823,
+        "PROFILEID": 15269823,
+        "LEAD_SCORE": 3,
+        "BUYER_PROFILE_ID": 27503881,
+        "LEAD_DETAIL_URL": "https://www.99acres.com/leadgradient/dashboard?q=R%2FGgSIyj5MFH%2F63LmSkekbX3OrEVTm8KM3OJSMHYkDFePUu04sNoadAWPBqThRuDDVZISqq7BaheY6dooRAV7eMD42GZ%2Bs6gQxJq%2FzgH8hL%2BnRLydDcvtDmSrk2RTs00",
+        "QUERY": "",
+        "NEW_TAG": "N",
+        "PRODUCT_ID": "G42080075",
+        "RESPONSE_TYPE": "query",
+        "RECEIVED_ON": "20-Mar-2019",
+        "intentVerificationStatus": null,
+        "PRODUCT_DETAILS": {
+          "ID": "G42080075",
+          "STATUS": "Deleted",
+          "COMPACT_LABEL": "Rs. 34 Lac, 2 Bed, Apartment for Sale in Dasnac The Jewel of Noida, Sector-75 Noida ",
+          "TYPE": "Platinum Listings: G42080075",
+          "PROJ_ID": null,
+          "PROFILEID": "15269823"
+        },
+        "QUESTIONNAIRE": [
+          {
+            "QUESTION_KEY": "DECISION_TIME",
+            "QUESTION_LABEL": "Planning to Buy within",
+            "ANSWERED": null,
+            "ANSWER_OPTIONS": [
+              "Within 3 months",
+              "Within 6 months",
+              "More than 6 months"
+            ]
+          },
+          {
+            "QUESTION_KEY": "SITE_VISIT",
+            "QUESTION_LABEL": "Interested in Site Visit?",
+            "ANSWERED": null,
+            "ANSWER_OPTIONS": [
+              "Yes",
+              "No"
+            ]
+          }
+        ],
+        "QUERY_ID": "QUERY-90571677"
+      },
+      {
+        "MONGO_ID": "5c907486338d4d0f511ffa05",
+        "followupCurrentStatus": "NW",
+        "CONTACT_DETAILS": {
+          "NAME": "Sonia",
+          "EMAIL": "Sonia.negi.26@gmail.com",
+          "PHONE": "91-8951004446",
+          "RAW_PHONE": "91-8951004446",
+          "IDENTITY": "Individual",
+          "PHONE_VERIFICATION_STATUS": "VERIFIED",
+          "EMAIL_VERIFICATION_STATUS": "VERIFIED"
+        },
+        "superProfileId": 15269823,
+        "subProfileId": 29748725,
+        "PROFILEID": 29748725,
+        "LEAD_SCORE": 3,
+        "BUYER_PROFILE_ID": 5253333,
+        "LEAD_DETAIL_URL": "https://www.99acres.com/leadgradient/dashboard?q=wFiHx1BfFj8mS7qjBrZA8y87a91lHM7SMVsWzDKZFKy8TKTJwCqlZm9vNt1zR1NU2u01MC%2FTWCl1tpXgnxDRdXc82Op1YF%2BTsx6p6z4IsFA7VSWERC9xpOwzzHHzOakf",
+        "QUERY": "I am interested in this property. Sent from 99acres Mobile.",
+        "NEW_TAG": "N",
+        "PRODUCT_ID": "A42083863",
+        "RESPONSE_TYPE": "query",
+        "RECEIVED_ON": "19-Mar-2019",
+        "intentVerificationStatus": null,
+        "PRODUCT_DETAILS": {
+          "ID": "A42083863",
+          "STATUS": "Deleted",
+          "COMPACT_LABEL": "Rs. 45 Lac, Land for Sale in Dhawal Giri Apartment, Sector-11 Noida ",
+          "TYPE": "Platinum Listings: A42083863",
+          "PROJ_ID": null,
+          "PROFILEID": "15269823"
+        },
+        "QUESTIONNAIRE": [
+          {
+            "QUESTION_KEY": "DECISION_TIME",
+            "QUESTION_LABEL": "Planning to Buy within",
+            "ANSWERED": "Within 3 months",
+            "ANSWER_OPTIONS": [
+              "Within 3 months",
+              "Within 6 months",
+              "More than 6 months"
+            ]
+          },
+          {
+            "QUESTION_KEY": "SITE_VISIT",
+            "QUESTION_LABEL": "Interested in Site Visit?",
+            "ANSWERED": "Yes",
+            "ANSWER_OPTIONS": [
+              "Yes",
+              "No"
+            ]
+          }
+        ],
+        "QUERY_ID": "QUERY-90511735"
+      },
+      {
+        "MONGO_ID": "5c905e55338d4d0f511febac",
+        "followupCurrentStatus": "NW",
+        "CONTACT_DETAILS": {
+          "NAME": "Deepak Arora",
+          "EMAIL": "Deepakarora01@gmail.com",
+          "PHONE": "91-9953743743",
+          "RAW_PHONE": "91-9953743743",
+          "IDENTITY": "Individual",
+          "PHONE_VERIFICATION_STATUS": "VERIFIED",
+          "EMAIL_VERIFICATION_STATUS": "VERIFIED"
+        },
+        "superProfileId": 15269823,
+        "subProfileId": 15269823,
+        "PROFILEID": 15269823,
+        "LEAD_SCORE": 4,
+        "BUYER_PROFILE_ID": 15842591,
+        "LEAD_DETAIL_URL": "https://www.99acres.com/leadgradient/dashboard?q=KcYi0aymmmeijvQXw%2FzpjrQzcRMYA9uChUEZ1r0Z2JlhseBrAxycnHTHmt4GozxBrjBNpJlF4uOIQHkMxVAomto3Nko4JbsDG1adiLog%2BHO0w0c%2BEoPnTwYBvAN7L03u",
+        "QUERY": "I am interested in checking out photos of this property. Please share them on my phone/email.",
+        "NEW_TAG": "N",
+        "PRODUCT_ID": "K42080163",
+        "RESPONSE_TYPE": "query",
+        "RECEIVED_ON": "19-Mar-2019",
+        "intentVerificationStatus": null,
+        "PRODUCT_DETAILS": {
+          "ID": "K42080163",
+          "STATUS": "Deleted",
+          "COMPACT_LABEL": "Rs. 45 Lac, Land/Inst. Land for Sale in 3C Knowledge Boulevard, Sector-62 Noida ",
+          "TYPE": "Platinum Listings: K42080163",
+          "PROJ_ID": null,
+          "PROFILEID": "15269823"
+        },
+        "QUESTIONNAIRE": [
+          {
+            "QUESTION_KEY": "DECISION_TIME",
+            "QUESTION_LABEL": "Planning to Buy within",
+            "ANSWERED": null,
+            "ANSWER_OPTIONS": [
+              "Within 3 months",
+              "Within 6 months",
+              "More than 6 months"
+            ]
+          },
+          {
+            "QUESTION_KEY": "SITE_VISIT",
+            "QUESTION_LABEL": "Interested in Site Visit?",
+            "ANSWERED": null,
+            "ANSWER_OPTIONS": [
+              "Yes",
+              "No"
+            ]
+          }
+        ],
+        "QUERY_ID": "QUERY-90509017"
+      },
+      {
+        "MONGO_ID": "5c905ba9338d4d0f511feaa3",
+        "followupCurrentStatus": "NW",
+        "CONTACT_DETAILS": {
+          "NAME": "Sunny",
+          "EMAIL": "mutneja.sunny@gmail.com",
+          "PHONE": "91-7874300666",
+          "RAW_PHONE": "91-7874300666",
+          "IDENTITY": "Individual",
+          "PHONE_VERIFICATION_STATUS": "VERIFIED",
+          "EMAIL_VERIFICATION_STATUS": "UNVALIDATED"
+        },
+        "superProfileId": 15269823,
+        "subProfileId": 15269823,
+        "PROFILEID": 15269823,
+        "LEAD_SCORE": 3,
+        "BUYER_PROFILE_ID": 16183371,
+        "LEAD_DETAIL_URL": "https://www.99acres.com/leadgradient/dashboard?q=tI4qOFIXAngI41Rx9hxVStRbaPJiTzrVxMFBMfupmj7QViuRMeci7BIoyIf%2BSw%2B6I86Sd%2BWraMNtM9vc8doQHYL9VB9M2Cd95Q1MYOq17zJrVT0vgMGfZuwvbCcIozWE",
+        "QUERY": "",
+        "NEW_TAG": "N",
+        "PRODUCT_ID": "G42080075",
+        "RESPONSE_TYPE": "query",
+        "RECEIVED_ON": "19-Mar-2019",
+        "intentVerificationStatus": null,
+        "PRODUCT_DETAILS": {
+          "ID": "G42080075",
+          "STATUS": "Deleted",
+          "COMPACT_LABEL": "Rs. 34 Lac, 2 Bed, Apartment for Sale in Dasnac The Jewel of Noida, Sector-75 Noida ",
+          "TYPE": "Platinum Listings: G42080075",
+          "PROJ_ID": null,
+          "PROFILEID": "15269823"
+        },
+        "QUESTIONNAIRE": [
+          {
+            "QUESTION_KEY": "DECISION_TIME",
+            "QUESTION_LABEL": "Planning to Buy within",
+            "ANSWERED": "Within 3 months",
+            "ANSWER_OPTIONS": [
+              "Within 3 months",
+              "Within 6 months",
+              "More than 6 months"
+            ]
+          },
+          {
+            "QUESTION_KEY": "SITE_VISIT",
+            "QUESTION_LABEL": "Interested in Site Visit?",
+            "ANSWERED": "Yes",
+            "ANSWER_OPTIONS": [
+              "Yes",
+              "No"
+            ]
+          }
+        ],
+        "QUERY_ID": "QUERY-90508759"
+      },
+      {
+        "MONGO_ID": "5c8e4d24338d4d0f511ed31e",
+        "followupCurrentStatus": "CL",
+        "CONTACT_DETAILS": {
+          "NAME": "Manoj Kumar",
+          "EMAIL": "Sayhellotomanoj@gmail.com",
+          "PHONE": "91-9971022598",
+          "RAW_PHONE": "91-9971022598",
+          "IDENTITY": "Individual",
+          "PHONE_VERIFICATION_STATUS": "VERIFIED",
+          "EMAIL_VERIFICATION_STATUS": "UNVALIDATED"
+        },
+        "superProfileId": 15269823,
+        "subProfileId": 29748725,
+        "PROFILEID": 29748725,
+        "LEAD_SCORE": 3,
+        "BUYER_PROFILE_ID": 37659945,
+        "LEAD_DETAIL_URL": "https://www.99acres.com/leadgradient/dashboard?q=yxS%2F1qdYnrsi9r4bt455uamveLaGLm%2BOQFIK6Wox3sgsR%2BtVfcFE7h3xZqfHSrfLQT%2BVCZogiB%2FZg9vUKn8MluRXwueboywooTTCZlHscg71iXNMSmODsbyairNMiCzC",
+        "QUERY": "",
+        "NEW_TAG": "N",
+        "PRODUCT_ID": "A42083863",
+        "RESPONSE_TYPE": "query",
+        "RECEIVED_ON": "17-Mar-2019",
+        "intentVerificationStatus": null,
+        "PRODUCT_DETAILS": {
+          "ID": "A42083863",
+          "STATUS": "Deleted",
+          "COMPACT_LABEL": "Rs. 45 Lac, Land for Sale in Dhawal Giri Apartment, Sector-11 Noida ",
+          "TYPE": "Platinum Listings: A42083863",
+          "PROJ_ID": null,
+          "PROFILEID": "15269823"
+        },
+        "QUESTIONNAIRE": [
+          {
+            "QUESTION_KEY": "DECISION_TIME",
+            "QUESTION_LABEL": "Planning to Buy within",
+            "ANSWERED": null,
+            "ANSWER_OPTIONS": [
+              "Within 3 months",
+              "Within 6 months",
+              "More than 6 months"
+            ]
+          },
+          {
+            "QUESTION_KEY": "SITE_VISIT",
+            "QUESTION_LABEL": "Interested in Site Visit?",
+            "ANSWERED": null,
+            "ANSWER_OPTIONS": [
+              "Yes",
+              "No"
+            ]
+          }
+        ],
+        "QUERY_ID": "QUERY-90444059"
+      },
+      {
+        "MONGO_ID": "5c8d37b9338d4d0f511e143d",
+        "followupCurrentStatus": "NW",
+        "CONTACT_DETAILS": {
+          "NAME": "ashutosh Shukla",
+          "EMAIL": "ashumika@gmail.com",
+          "PHONE": "91-9654697706",
+          "RAW_PHONE": "91-9654697706",
+          "IDENTITY": "Dealer",
+          "PHONE_VERIFICATION_STATUS": "VERIFIED",
+          "EMAIL_VERIFICATION_STATUS": "UNVALIDATED"
+        },
+        "superProfileId": 15269823,
+        "subProfileId": 15269823,
+        "PROFILEID": 15269823,
+        "LEAD_SCORE": 5,
+        "BUYER_PROFILE_ID": 425525,
+        "LEAD_DETAIL_URL": "https://www.99acres.com/leadgradient/dashboard?q=76ImuCStLwamMNyP9qv%2BmR54do3lY4Njs9bHpBX7qbsxpTLVdIC%2F%2B3Rlg76aoZKorulIfWsKVOFrthVaipXJGTPrzASGFF7Foaxhhe9H5Rj%2BWjhov0vW%2FXNuOloUeHb4",
+        "QUERY": "",
+        "NEW_TAG": "N",
+        "PRODUCT_ID": "X42067679",
+        "RESPONSE_TYPE": "query",
+        "RECEIVED_ON": "16-Mar-2019",
+        "intentVerificationStatus": null,
+        "PRODUCT_DETAILS": {
+          "ID": "X42067679",
+          "STATUS": "Deleted",
+          "COMPACT_LABEL": "Rs. 45 Lac, Land for Sale in Supertech Ecociti, Sector-137 Noida ",
+          "TYPE": "Platinum Listings: X42067679",
+          "PROJ_ID": null,
+          "PROFILEID": "15269823"
+        },
+        "QUESTIONNAIRE": [
+          {
+            "QUESTION_KEY": "DECISION_TIME",
+            "QUESTION_LABEL": "Planning to Buy within",
+            "ANSWERED": "Within 3 months",
+            "ANSWER_OPTIONS": [
+              "Within 3 months",
+              "Within 6 months",
+              "More than 6 months"
+            ]
+          },
+          {
+            "QUESTION_KEY": "SITE_VISIT",
+            "QUESTION_LABEL": "Interested in Site Visit?",
+            "ANSWERED": "Yes",
+            "ANSWER_OPTIONS": [
+              "Yes",
+              "No"
+            ]
+          }
+        ],
+        "QUERY_ID": "QUERY-90404231"
+      },
+      {
+        "MONGO_ID": "5c8cfa93345b2c581d9ca007",
+        "followupCurrentStatus": "NW",
+        "CONTACT_DETAILS": {
+          "NAME": "Sachin Aggarwal",
+          "EMAIL": "sachinaggarwal82@gmail.com",
+          "PHONE": "91-9999255675",
+          "RAW_PHONE": "91-9999255675",
+          "IDENTITY": "Individual",
+          "PHONE_VERIFICATION_STATUS": "VERIFIED",
+          "EMAIL_VERIFICATION_STATUS": "VERIFIED"
+        },
+        "superProfileId": 15269823,
+        "subProfileId": 15269823,
+        "PROFILEID": 15269823,
+        "LEAD_SCORE": 3.5,
+        "BUYER_PROFILE_ID": 4043089,
+        "LEAD_DETAIL_URL": "https://www.99acres.com/leadgradient/dashboard?q=JTJfZeuH1kqaLpF4TC4MwseILEFoVW7CfRVkPcbmDQa03lC567zlZvbBSYPiyYwiL4EngRY2OBKyCgddaQ578qTFtJeZ40FSxM3Eb8dZgj7m9g1fIaYqDMiggBXDPJiT",
+        "QUERY": "",
+        "NEW_TAG": "N",
+        "PRODUCT_ID": "G42080075",
+        "RESPONSE_TYPE": "query",
+        "RECEIVED_ON": "16-Mar-2019",
+        "intentVerificationStatus": null,
+        "PRODUCT_DETAILS": {
+          "ID": "G42080075",
+          "STATUS": "Deleted",
+          "COMPACT_LABEL": "Rs. 34 Lac, 2 Bed, Apartment for Sale in Dasnac The Jewel of Noida, Sector-75 Noida ",
+          "TYPE": "Platinum Listings: G42080075",
+          "PROJ_ID": null,
+          "PROFILEID": "15269823"
+        },
+        "QUESTIONNAIRE": [
+          {
+            "QUESTION_KEY": "DECISION_TIME",
+            "QUESTION_LABEL": "Planning to Buy within",
+            "ANSWERED": "Within 3 months",
+            "ANSWER_OPTIONS": [
+              "Within 3 months",
+              "Within 6 months",
+              "More than 6 months"
+            ]
+          },
+          {
+            "QUESTION_KEY": "SITE_VISIT",
+            "QUESTION_LABEL": "Interested in Site Visit?",
+            "ANSWERED": "Weekend",
+            "ANSWER_OPTIONS": [
+              "Yes",
+              "No"
+            ]
+          }
+        ],
+        "QUERY_ID": "QUERY-90392837"
+      }
+    ],
+    "newTagCount": 0,
+    "count": 438
+  },
+  "c2v": {
+    "tupple": [
+      {
+        "MONGO_ID": "5ca2fba9338d4d0f512c1472",
+        "followupCurrentStatus": "NW",
+        "CONTACT_DETAILS": {
+          "NAME": "s bhattacharya",
+          "EMAIL": "sharanya2404@gmail.com",
+          "PHONE": "91-8860903848",
+          "RAW_PHONE": "91-8860903848",
+          "IDENTITY": "Individual",
+          "PHONE_VERIFICATION_STATUS": "VERIFIED",
+          "EMAIL_VERIFICATION_STATUS": "VERIFIED"
+        },
+        "superProfileId": 15269823,
+        "subProfileId": 15269823,
+        "PROFILEID": 15269823,
+        "LEAD_SCORE": 4.5,
+        "BUYER_PROFILE_ID": 30747533,
+        "LEAD_DETAIL_URL": "https://www.99acres.com/leadgradient/dashboard?q=RCIRp4YQI135IIy%2B%2FbLvEw1YLvuJcPmRdeAJPAry9rokM5EmyBkST2eGJyLaY5OZ9F9Z2Su9wPYVobq5CnynS9kZR9nA%2Fbxt9mYF96RKY2G6dVpK4PmMpCLyru3e0iwj",
+        "QUERY": "",
+        "NEW_TAG": "N",
+        "PRODUCT_ID": "Q42371133",
+        "RESPONSE_TYPE": "viewedcontact",
+        "RECEIVED_ON": "Yesterday",
+        "intentVerificationStatus": null,
+        "PRODUCT_DETAILS": {
+          "ID": "Q42371133",
+          "STATUS": "Deleted",
+          "COMPACT_LABEL": "Rs. 34.01 Lac, 2 Bed, Apartment for Sale in Supertech Ecociti, Sector-137 Noida ",
+          "TYPE": "Platinum Listings: Q42371133",
+          "PROJ_ID": null,
+          "PROFILEID": "15269823"
+        },
+        "QUESTIONNAIRE": [
+          {
+            "QUESTION_KEY": "DECISION_TIME",
+            "QUESTION_LABEL": "Planning to Buy within",
+            "ANSWERED": null,
+            "ANSWER_OPTIONS": [
+              "Within 3 months",
+              "Within 6 months",
+              "More than 6 months"
+            ]
+          },
+          {
+            "QUESTION_KEY": "SITE_VISIT",
+            "QUESTION_LABEL": "Interested in Site Visit?",
+            "ANSWERED": null,
+            "ANSWER_OPTIONS": [
+              "Yes",
+              "No"
+            ]
+          }
+        ],
+        "QUERY_ID": "C2V_PROPERTY-219298077"
+      },
+      {
+        "MONGO_ID": "5ca1e4e9345b2c581daa45e4",
+        "followupCurrentStatus": "IN",
+        "CONTACT_DETAILS": {
+          "NAME": "Faiz Ahmad Siddiqui",
+          "EMAIL": "write2faiz@yahoo.co.in",
+          "PHONE": "91-8860049388",
+          "RAW_PHONE": "91-8860049388",
+          "IDENTITY": "Individual",
+          "PHONE_VERIFICATION_STATUS": "VERIFIED",
+          "EMAIL_VERIFICATION_STATUS": "VERIFIED"
+        },
+        "superProfileId": 15269823,
+        "subProfileId": 15269823,
+        "PROFILEID": 15269823,
+        "LEAD_SCORE": 3,
+        "BUYER_PROFILE_ID": 8737553,
+        "LEAD_DETAIL_URL": "https://www.99acres.com/leadgradient/dashboard?q=ObdXnGH0oH7jffLXM1VjfHvZVzylgXQAdYUt3NHyMEqkIz3IQX8VWRMhF2jXJzapLiAAZ7DM6MXbvZlqN6W3iM9On7aK64KHRt0DvY%2BW%2BWSNoNnSmbJS5GUKG9qSSwt%2F",
+        "QUERY": "",
+        "NEW_TAG": "N",
+        "PRODUCT_ID": "Q42371133",
+        "RESPONSE_TYPE": "viewedcontact",
+        "RECEIVED_ON": "01-Apr-2019",
+        "intentVerificationStatus": null,
+        "PRODUCT_DETAILS": {
+          "ID": "Q42371133",
+          "STATUS": "Deleted",
+          "COMPACT_LABEL": "Rs. 34.01 Lac, 2 Bed, Apartment for Sale in Supertech Ecociti, Sector-137 Noida ",
+          "TYPE": "Platinum Listings: Q42371133",
+          "PROJ_ID": null,
+          "PROFILEID": "15269823"
+        },
+        "QUESTIONNAIRE": [
+          {
+            "QUESTION_KEY": "DECISION_TIME",
+            "QUESTION_LABEL": "Planning to Buy within",
+            "ANSWERED": null,
+            "ANSWER_OPTIONS": [
+              "Within 3 months",
+              "Within 6 months",
+              "More than 6 months"
+            ]
+          },
+          {
+            "QUESTION_KEY": "SITE_VISIT",
+            "QUESTION_LABEL": "Interested in Site Visit?",
+            "ANSWERED": "Yes",
+            "ANSWER_OPTIONS": [
+              "Yes",
+              "No"
+            ]
+          }
+        ],
+        "QUERY_ID": "C2V_PROPERTY-219189515"
+      },
+      {
+        "MONGO_ID": "5ca1d9a2338d4d0f512b6e99",
+        "followupCurrentStatus": "NW",
+        "CONTACT_DETAILS": {
+          "NAME": "ajay jain",
+          "EMAIL": "asdflkj@gmail.com",
+          "PHONE": "91-9319916622",
+          "RAW_PHONE": "91-9319916622",
+          "IDENTITY": "Individual",
+          "PHONE_VERIFICATION_STATUS": "VERIFIED",
+          "EMAIL_VERIFICATION_STATUS": "UNVALIDATED"
+        },
+        "superProfileId": 15269823,
+        "subProfileId": 15269823,
+        "PROFILEID": 15269823,
+        "LEAD_SCORE": 4,
+        "BUYER_PROFILE_ID": 12578423,
+        "LEAD_DETAIL_URL": "https://www.99acres.com/leadgradient/dashboard?q=W7hg3QJfxdP0rZ6RCHXYGhMLSjJt8IkFi2yNc5KCkR%2FSalRwaCfRTs230ONzhAHBo5YAMADlAV8i6PoyN359F9ROYz%2FWtIL8zUiHXswM1wdV7d8yy88iuBrfz%2Brk1TCD",
+        "QUERY": "",
+        "NEW_TAG": "N",
+        "PRODUCT_ID": "A42072569",
+        "RESPONSE_TYPE": "viewedcontact",
+        "RECEIVED_ON": "01-Apr-2019",
+        "intentVerificationStatus": null,
+        "PRODUCT_DETAILS": {
+          "ID": "A42072569",
+          "STATUS": "Deleted",
+          "COMPACT_LABEL": "Rs. 45 Lac, 2 Bed, Apartment for Sale in Aims Golf Avenue 2, Sector-75 Noida ",
+          "TYPE": "Platinum Listings: A42072569",
+          "PROJ_ID": null,
+          "PROFILEID": "15269823"
+        },
+        "QUESTIONNAIRE": [
+          {
+            "QUESTION_KEY": "DECISION_TIME",
+            "QUESTION_LABEL": "Planning to Buy within",
+            "ANSWERED": "Within 3 months",
+            "ANSWER_OPTIONS": [
+              "Within 3 months",
+              "Within 6 months",
+              "More than 6 months"
+            ]
+          },
+          {
+            "QUESTION_KEY": "SITE_VISIT",
+            "QUESTION_LABEL": "Interested in Site Visit?",
+            "ANSWERED": "Yes",
+            "ANSWER_OPTIONS": [
+              "Yes",
+              "No"
+            ]
+          }
+        ],
+        "QUERY_ID": "C2V_PROPERTY-219177717"
+      },
+      {
+        "MONGO_ID": "5ca1c9b1345b2c581daa2345",
+        "followupCurrentStatus": "NW",
+        "CONTACT_DETAILS": {
+          "NAME": "Tarun Sharma",
+          "EMAIL": "tarunsharma2109@gmail.com",
+          "PHONE": "91-8875013144",
+          "RAW_PHONE": "91-8875013144",
+          "IDENTITY": "Individual",
+          "PHONE_VERIFICATION_STATUS": "VERIFIED",
+          "EMAIL_VERIFICATION_STATUS": "UNVALIDATED"
+        },
+        "superProfileId": 15269823,
+        "subProfileId": 15269823,
+        "PROFILEID": 15269823,
+        "LEAD_SCORE": 4.5,
+        "BUYER_PROFILE_ID": 11160195,
+        "LEAD_DETAIL_URL": "https://www.99acres.com/leadgradient/dashboard?q=o28gYtWP8xWBfvgt3KRhxgTnIIq9FdUS4ah18KNUmRnYZ90GhrQ1fReyxhXWAgRmyYaMNWErdF5qXKeK6sxongYiLreIj2XXcPEcucmlLPAzYHGFwiEkehWZ91688%2F1U",
+        "QUERY": "",
+        "NEW_TAG": "N",
+        "PRODUCT_ID": "G42080075",
+        "RESPONSE_TYPE": "viewedcontact",
+        "RECEIVED_ON": "01-Apr-2019",
+        "intentVerificationStatus": null,
+        "PRODUCT_DETAILS": {
+          "ID": "G42080075",
+          "STATUS": "Deleted",
+          "COMPACT_LABEL": "Rs. 34 Lac, 2 Bed, Apartment for Sale in Dasnac The Jewel of Noida, Sector-75 Noida ",
+          "TYPE": "Platinum Listings: G42080075",
+          "PROJ_ID": null,
+          "PROFILEID": "15269823"
+        },
+        "QUESTIONNAIRE": [
+          {
+            "QUESTION_KEY": "DECISION_TIME",
+            "QUESTION_LABEL": "Planning to Buy within",
+            "ANSWERED": null,
+            "ANSWER_OPTIONS": [
+              "Within 3 months",
+              "Within 6 months",
+              "More than 6 months"
+            ]
+          },
+          {
+            "QUESTION_KEY": "SITE_VISIT",
+            "QUESTION_LABEL": "Interested in Site Visit?",
+            "ANSWERED": null,
+            "ANSWER_OPTIONS": [
+              "Yes",
+              "No"
+            ]
+          }
+        ],
+        "QUERY_ID": "C2V_PROPERTY-219161541"
+      },
+      {
+        "MONGO_ID": "5ca0de6f338d4d0f512ae300",
+        "followupCurrentStatus": "NW",
+        "CONTACT_DETAILS": {
+          "NAME": "Rajesh Kumar",
+          "EMAIL": "rajesh15292@gmail.com",
+          "PHONE": "91-9466136760",
+          "RAW_PHONE": "91-9466136760",
+          "IDENTITY": "Individual",
+          "PHONE_VERIFICATION_STATUS": "VERIFIED",
+          "EMAIL_VERIFICATION_STATUS": "UNVALIDATED"
+        },
+        "superProfileId": 15269823,
+        "subProfileId": 15269823,
+        "PROFILEID": 15269823,
+        "LEAD_SCORE": 3,
+        "BUYER_PROFILE_ID": 37898081,
+        "LEAD_DETAIL_URL": "https://www.99acres.com/leadgradient/dashboard?q=MUT3OCeqT7pRHl1kAyWki8v%2BlemMVWBONtHhrTOxuJcleujpEO0FSdWKcp9VjtnhX14oLlaLZv0UgD3kogB13F%2BH%2BA8CoMPsT9JRgVT3ROEC2iKkRgDEXJqWX7G2gBKt",
+        "QUERY": "",
+        "NEW_TAG": "N",
+        "PRODUCT_ID": "A42072569",
+        "RESPONSE_TYPE": "viewedcontact",
+        "RECEIVED_ON": "31-Mar-2019",
+        "intentVerificationStatus": null,
+        "PRODUCT_DETAILS": {
+          "ID": "A42072569",
+          "STATUS": "Deleted",
+          "COMPACT_LABEL": "Rs. 45 Lac, 2 Bed, Apartment for Sale in Aims Golf Avenue 2, Sector-75 Noida ",
+          "TYPE": "Platinum Listings: A42072569",
+          "PROJ_ID": null,
+          "PROFILEID": "15269823"
+        },
+        "QUESTIONNAIRE": [
+          {
+            "QUESTION_KEY": "DECISION_TIME",
+            "QUESTION_LABEL": "Planning to Buy within",
+            "ANSWERED": "Within 3 months",
+            "ANSWER_OPTIONS": [
+              "Within 3 months",
+              "Within 6 months",
+              "More than 6 months"
+            ]
+          },
+          {
+            "QUESTION_KEY": "SITE_VISIT",
+            "QUESTION_LABEL": "Interested in Site Visit?",
+            "ANSWERED": "No",
+            "ANSWER_OPTIONS": [
+              "Yes",
+              "No"
+            ]
+          }
+        ],
+        "QUERY_ID": "C2V_PROPERTY-219076369"
+      },
+      {
+        "MONGO_ID": "5ca05983345b2c581da918c3",
+        "followupCurrentStatus": "NI",
+        "CONTACT_DETAILS": {
+          "NAME": "Arpan",
+          "EMAIL": "mishra.aryan1696@gmail.com",
+          "PHONE": "91-6397587284",
+          "RAW_PHONE": "91-6397587284",
+          "IDENTITY": "Individual",
+          "PHONE_VERIFICATION_STATUS": "VERIFIED",
+          "EMAIL_VERIFICATION_STATUS": "UNVALIDATED"
+        },
+        "superProfileId": 15269823,
+        "subProfileId": 15269823,
+        "PROFILEID": 15269823,
+        "LEAD_SCORE": 3,
+        "BUYER_PROFILE_ID": 30721315,
+        "LEAD_DETAIL_URL": "https://www.99acres.com/leadgradient/dashboard?q=eDrn%2B1vwynCZEb%2FI76iW0jL%2Bl42Q6ElJFYoxC3aZcTaJIkWsnryoPM3J2HRfWA1KYQwqCA5evE3BCSHhglG%2BXAc4ajWA5obg5a9r%2FkXKPqRzIYhrdd2MUdLUOiJ7wmXK",
+        "QUERY": "",
+        "NEW_TAG": "N",
+        "PRODUCT_ID": "G42080075",
+        "RESPONSE_TYPE": "viewedcontact",
+        "RECEIVED_ON": "31-Mar-2019",
+        "intentVerificationStatus": null,
+        "PRODUCT_DETAILS": {
+          "ID": "G42080075",
+          "STATUS": "Deleted",
+          "COMPACT_LABEL": "Rs. 34 Lac, 2 Bed, Apartment for Sale in Dasnac The Jewel of Noida, Sector-75 Noida ",
+          "TYPE": "Platinum Listings: G42080075",
+          "PROJ_ID": null,
+          "PROFILEID": "15269823"
+        },
+        "QUESTIONNAIRE": [
+          {
+            "QUESTION_KEY": "DECISION_TIME",
+            "QUESTION_LABEL": "Planning to Buy within",
+            "ANSWERED": null,
+            "ANSWER_OPTIONS": [
+              "Within 3 months",
+              "Within 6 months",
+              "More than 6 months"
+            ]
+          },
+          {
+            "QUESTION_KEY": "SITE_VISIT",
+            "QUESTION_LABEL": "Interested in Site Visit?",
+            "ANSWERED": null,
+            "ANSWER_OPTIONS": [
+              "Yes",
+              "No"
+            ]
+          }
+        ],
+        "QUERY_ID": "C2V_PROPERTY-218967427"
+      },
+      {
+        "MONGO_ID": "5c9f6020345b2c581da89d9e",
+        "followupCurrentStatus": "NW",
+        "CONTACT_DETAILS": {
+          "NAME": "Puru Gupta",
+          "EMAIL": "purugupta28@gmail.com",
+          "PHONE": "91-8448492041",
+          "RAW_PHONE": "91-8448492041",
+          "IDENTITY": "Dealer",
+          "PHONE_VERIFICATION_STATUS": "VERIFIED",
+          "EMAIL_VERIFICATION_STATUS": "UNVALIDATED"
+        },
+        "superProfileId": 15269823,
+        "subProfileId": 15269823,
+        "PROFILEID": 15269823,
+        "LEAD_SCORE": null,
+        "BUYER_PROFILE_ID": 37861921,
+        "QUERY": "",
+        "NEW_TAG": "N",
+        "PRODUCT_ID": "I41982801",
+        "RESPONSE_TYPE": "viewedcontact",
+        "RECEIVED_ON": "30-Mar-2019",
+        "intentVerificationStatus": null,
+        "PRODUCT_DETAILS": {
+          "ID": "I41982801",
+          "STATUS": "Deleted",
+          "COMPACT_LABEL": "Rs. 12000, 2 Bed, Apartment for Rent in Ajnara Daffodil, Sector-137 Noida ",
+          "TYPE": "Platinum Listings: I41982801",
+          "PROJ_ID": null,
+          "PROFILEID": "15269823"
+        },
+        "QUESTIONNAIRE": [
+          {
+            "QUESTION_KEY": "DECISION_TIME",
+            "QUESTION_LABEL": "Planning to Buy within",
+            "ANSWERED": null,
+            "ANSWER_OPTIONS": [
+              "Within 3 months",
+              "Within 6 months",
+              "More than 6 months"
+            ]
+          },
+          {
+            "QUESTION_KEY": "SITE_VISIT",
+            "QUESTION_LABEL": "Interested in Site Visit?",
+            "ANSWERED": null,
+            "ANSWER_OPTIONS": [
+              "Yes",
+              "No"
+            ]
+          }
+        ],
+        "QUERY_ID": "C2V_PROPERTY-218882621"
+      },
+      {
+        "MONGO_ID": "5c9f510e338d4d0f5129ca29",
+        "followupCurrentStatus": "LA",
+        "CONTACT_DETAILS": {
+          "NAME": "Aarti Jha",
+          "EMAIL": "Aartijha07@gmail.com",
+          "PHONE": "91-9711308309",
+          "RAW_PHONE": "91-9711308309",
+          "IDENTITY": "Individual",
+          "PHONE_VERIFICATION_STATUS": "VERIFIED",
+          "EMAIL_VERIFICATION_STATUS": "UNVALIDATED"
+        },
+        "superProfileId": 15269823,
+        "subProfileId": 15269823,
+        "PROFILEID": 15269823,
+        "LEAD_SCORE": 3,
+        "BUYER_PROFILE_ID": 10490919,
+        "LEAD_DETAIL_URL": "https://www.99acres.com/leadgradient/dashboard?q=s6bvAFpmoHuDnB5ROKFaQp31Vrk6fhMSPrBRVJ18LAUHNK2oldzTQgyQKv68oUlEGcwUnN1b%2BAsIWIKq361nB69ekH0p1ZcUDzLi0k6D5LUfT5RUAGGVYqKwRS6%2ByMdw",
+        "QUERY": "",
+        "NEW_TAG": "N",
+        "PRODUCT_ID": "Q42371133",
+        "RESPONSE_TYPE": "viewedcontact",
+        "RECEIVED_ON": "30-Mar-2019",
+        "intentVerificationStatus": null,
+        "PRODUCT_DETAILS": {
+          "ID": "Q42371133",
+          "STATUS": "Deleted",
+          "COMPACT_LABEL": "Rs. 34.01 Lac, 2 Bed, Apartment for Sale in Supertech Ecociti, Sector-137 Noida ",
+          "TYPE": "Platinum Listings: Q42371133",
+          "PROJ_ID": null,
+          "PROFILEID": "15269823"
+        },
+        "QUESTIONNAIRE": [
+          {
+            "QUESTION_KEY": "DECISION_TIME",
+            "QUESTION_LABEL": "Planning to Buy within",
+            "ANSWERED": null,
+            "ANSWER_OPTIONS": [
+              "Within 3 months",
+              "Within 6 months",
+              "More than 6 months"
+            ]
+          },
+          {
+            "QUESTION_KEY": "SITE_VISIT",
+            "QUESTION_LABEL": "Interested in Site Visit?",
+            "ANSWERED": null,
+            "ANSWER_OPTIONS": [
+              "Yes",
+              "No"
+            ]
+          }
+        ],
+        "QUERY_ID": "C2V_PROPERTY-218870031"
+      },
+      {
+        "MONGO_ID": "5c9f1dfc338d4d0f51298c74",
+        "followupCurrentStatus": "NW",
+        "CONTACT_DETAILS": {
+          "NAME": "Rahul",
+          "EMAIL": "rhlkhanna05@gmail.com",
+          "PHONE": "91-9654364424",
+          "RAW_PHONE": "91-9654364424",
+          "IDENTITY": "Individual",
+          "PHONE_VERIFICATION_STATUS": "VERIFIED",
+          "EMAIL_VERIFICATION_STATUS": "VERIFIED"
+        },
+        "superProfileId": 15269823,
+        "subProfileId": 15269823,
+        "PROFILEID": 15269823,
+        "LEAD_SCORE": 4.5,
+        "BUYER_PROFILE_ID": 9509466,
+        "LEAD_DETAIL_URL": "https://www.99acres.com/leadgradient/dashboard?q=Von5eLCoGeixG9K4%2FTF5so%2FWy2I70rl9foQNsENE9cU%2BLYYpLaECGaBHxLCuUjdwlP1VShZ%2FbSnFYXWOOurNHtROYz%2FWtIL8zUiHXswM1wdV7d8yy88iuBrfz%2Brk1TCD",
+        "QUERY": "",
+        "NEW_TAG": "N",
+        "PRODUCT_ID": "G42080075",
+        "RESPONSE_TYPE": "viewedcontact",
+        "RECEIVED_ON": "30-Mar-2019",
+        "intentVerificationStatus": null,
+        "PRODUCT_DETAILS": {
+          "ID": "G42080075",
+          "STATUS": "Deleted",
+          "COMPACT_LABEL": "Rs. 34 Lac, 2 Bed, Apartment for Sale in Dasnac The Jewel of Noida, Sector-75 Noida ",
+          "TYPE": "Platinum Listings: G42080075",
+          "PROJ_ID": null,
+          "PROFILEID": "15269823"
+        },
+        "QUESTIONNAIRE": [
+          {
+            "QUESTION_KEY": "DECISION_TIME",
+            "QUESTION_LABEL": "Planning to Buy within",
+            "ANSWERED": null,
+            "ANSWER_OPTIONS": [
+              "Within 3 months",
+              "Within 6 months",
+              "More than 6 months"
+            ]
+          },
+          {
+            "QUESTION_KEY": "SITE_VISIT",
+            "QUESTION_LABEL": "Interested in Site Visit?",
+            "ANSWERED": null,
+            "ANSWER_OPTIONS": [
+              "Yes",
+              "No"
+            ]
+          }
+        ],
+        "QUERY_ID": "C2V_PROPERTY-218821587"
+      },
+      {
+        "MONGO_ID": "5c9edfb6345b2c581da80607",
+        "followupCurrentStatus": "NW",
+        "CONTACT_DETAILS": {
+          "NAME": "Surbhi Mathur",
+          "EMAIL": "surbhi.mathur2105@gmail.com",
+          "PHONE": "91-9636050622",
+          "RAW_PHONE": "91-9636050622",
+          "IDENTITY": "Individual",
+          "PHONE_VERIFICATION_STATUS": "VERIFIED",
+          "EMAIL_VERIFICATION_STATUS": "UNVALIDATED"
+        },
+        "superProfileId": 15269823,
+        "subProfileId": 15269823,
+        "PROFILEID": 15269823,
+        "LEAD_SCORE": null,
+        "BUYER_PROFILE_ID": 33905599,
+        "QUERY": "",
+        "NEW_TAG": "N",
+        "PRODUCT_ID": "I41982801",
+        "RESPONSE_TYPE": "viewedcontact",
+        "RECEIVED_ON": "30-Mar-2019",
+        "intentVerificationStatus": null,
+        "PRODUCT_DETAILS": {
+          "ID": "I41982801",
+          "STATUS": "Deleted",
+          "COMPACT_LABEL": "Rs. 12000, 2 Bed, Apartment for Rent in Ajnara Daffodil, Sector-137 Noida ",
+          "TYPE": "Platinum Listings: I41982801",
+          "PROJ_ID": null,
+          "PROFILEID": "15269823"
+        },
+        "QUESTIONNAIRE": [
+          {
+            "QUESTION_KEY": "DECISION_TIME",
+            "QUESTION_LABEL": "Planning to Buy within",
+            "ANSWERED": null,
+            "ANSWER_OPTIONS": [
+              "Within 3 months",
+              "Within 6 months",
+              "More than 6 months"
+            ]
+          },
+          {
+            "QUESTION_KEY": "SITE_VISIT",
+            "QUESTION_LABEL": "Interested in Site Visit?",
+            "ANSWERED": null,
+            "ANSWER_OPTIONS": [
+              "Yes",
+              "No"
+            ]
+          }
+        ],
+        "QUERY_ID": "C2V_PROPERTY-218763623"
+      },
+      {
+        "MONGO_ID": "5c9e04fb338d4d0f5128f3d1",
+        "followupCurrentStatus": "NW",
+        "CONTACT_DETAILS": {
+          "NAME": "Sanjib Kumar Baishya",
+          "EMAIL": "sanjibzhcassam@gmail.com",
+          "PHONE": "91-9911888598",
+          "RAW_PHONE": "91-9911888598",
+          "IDENTITY": "Dealer",
+          "PHONE_VERIFICATION_STATUS": "VERIFIED",
+          "EMAIL_VERIFICATION_STATUS": "UNVALIDATED"
+        },
+        "superProfileId": 15269823,
+        "subProfileId": 15269823,
+        "PROFILEID": 15269823,
+        "LEAD_SCORE": 3,
+        "BUYER_PROFILE_ID": 27797553,
+        "LEAD_DETAIL_URL": "https://www.99acres.com/leadgradient/dashboard?q=MdGV7AaE3y4MNseTB64q6I128euj6OY4eOXcxW52ZjS%2BN41Uh5kcHpXN6wF5t3Wwl2lTrnZeF9uQ1bJmL1YrKujpSnJUOoPlF0IycXGIxnKnzfnZaRvxCzk2kAcOVCWo",
+        "QUERY": "",
+        "NEW_TAG": "N",
+        "PRODUCT_ID": "G42080075",
+        "RESPONSE_TYPE": "viewedcontact",
+        "RECEIVED_ON": "29-Mar-2019",
+        "intentVerificationStatus": null,
+        "PRODUCT_DETAILS": {
+          "ID": "G42080075",
+          "STATUS": "Deleted",
+          "COMPACT_LABEL": "Rs. 34 Lac, 2 Bed, Apartment for Sale in Dasnac The Jewel of Noida, Sector-75 Noida ",
+          "TYPE": "Platinum Listings: G42080075",
+          "PROJ_ID": null,
+          "PROFILEID": "15269823"
+        },
+        "QUESTIONNAIRE": [
+          {
+            "QUESTION_KEY": "DECISION_TIME",
+            "QUESTION_LABEL": "Planning to Buy within",
+            "ANSWERED": null,
+            "ANSWER_OPTIONS": [
+              "Within 3 months",
+              "Within 6 months",
+              "More than 6 months"
+            ]
+          },
+          {
+            "QUESTION_KEY": "SITE_VISIT",
+            "QUESTION_LABEL": "Interested in Site Visit?",
+            "ANSWERED": null,
+            "ANSWER_OPTIONS": [
+              "Yes",
+              "No"
+            ]
+          }
+        ],
+        "QUERY_ID": "C2V_PROPERTY-218709373"
+      },
+      {
+        "MONGO_ID": "5c9e011c338d4d0f5128ef58",
+        "followupCurrentStatus": "NW",
+        "CONTACT_DETAILS": {
+          "NAME": "Nityanand Pandey",
+          "EMAIL": "helpcrmwala@gail.com",
+          "PHONE": "91-9555598643",
+          "RAW_PHONE": "91-9555598643",
+          "IDENTITY": "Dealer",
+          "PHONE_VERIFICATION_STATUS": "VERIFIED",
+          "EMAIL_VERIFICATION_STATUS": "UNVALIDATED"
+        },
+        "superProfileId": 15269823,
+        "subProfileId": 15269823,
+        "PROFILEID": 15269823,
+        "LEAD_SCORE": 2,
+        "BUYER_PROFILE_ID": 37669761,
+        "LEAD_DETAIL_URL": "https://www.99acres.com/leadgradient/dashboard?q=6OnZI1%2Bpw9%2BkJtsDTKYui2WX9fudqs3guEj4NYI7kRymmzOP%2BHgU77fWqXBihqhW6yoK5OlTwv0bL5wKJNyPrQIjTaV9Qx0bZXJy7zQATyedWeZ5IWbPUmAa92kZlMYc",
+        "QUERY": "",
+        "NEW_TAG": "N",
+        "PRODUCT_ID": "C42357831",
+        "RESPONSE_TYPE": "viewedcontact",
+        "RECEIVED_ON": "29-Mar-2019",
+        "intentVerificationStatus": null,
+        "PRODUCT_DETAILS": {
+          "ID": "C42357831",
+          "STATUS": "Deleted",
+          "COMPACT_LABEL": "Rs. 54 Lac, 2 Bed, Apartment for Sale in Geotech Pristine Avenue, Noida Extension ",
+          "TYPE": "Platinum Listings: C42357831",
+          "PROJ_ID": null,
+          "PROFILEID": "15269823"
+        },
+        "QUESTIONNAIRE": [
+          {
+            "QUESTION_KEY": "DECISION_TIME",
+            "QUESTION_LABEL": "Planning to Buy within",
+            "ANSWERED": null,
+            "ANSWER_OPTIONS": [
+              "Within 3 months",
+              "Within 6 months",
+              "More than 6 months"
+            ]
+          },
+          {
+            "QUESTION_KEY": "SITE_VISIT",
+            "QUESTION_LABEL": "Interested in Site Visit?",
+            "ANSWERED": null,
+            "ANSWER_OPTIONS": [
+              "Yes",
+              "No"
+            ]
+          }
+        ],
+        "QUERY_ID": "C2V_PROPERTY-218705905"
+      },
+      {
+        "MONGO_ID": "5c9dfb07338d4d0f5128e83a",
+        "followupCurrentStatus": "NW",
+        "CONTACT_DETAILS": {
+          "NAME": "Sheerin",
+          "EMAIL": "sheerinzaidi01@gmail.com",
+          "PHONE": "91-9818197137",
+          "RAW_PHONE": "91-9818197137",
+          "IDENTITY": "Individual",
+          "PHONE_VERIFICATION_STATUS": "VERIFIED",
+          "EMAIL_VERIFICATION_STATUS": "UNVALIDATED"
+        },
+        "superProfileId": 15269823,
+        "subProfileId": 15269823,
+        "PROFILEID": 15269823,
+        "LEAD_SCORE": 2,
+        "BUYER_PROFILE_ID": 37879973,
+        "LEAD_DETAIL_URL": "https://www.99acres.com/leadgradient/dashboard?q=8iO%2Fgxt%2FZGtj4uPtsw8qO6PZYOdb4c8Y9vHw%2FfhThuSamO%2FJXaEKVguhxQ1mjwGE41GMuZQ38zbJd9u8ASdYTa9nbQ6gDj5fSppdbLCk85%2F538wKrA9rHeTaRQe87H4U",
+        "QUERY": "",
+        "NEW_TAG": "N",
+        "PRODUCT_ID": "J42357267",
+        "RESPONSE_TYPE": "viewedcontact",
+        "RECEIVED_ON": "29-Mar-2019",
+        "intentVerificationStatus": null,
+        "PRODUCT_DETAILS": {
+          "ID": "J42357267",
+          "STATUS": "Underscreening",
+          "COMPACT_LABEL": "Rs. 1 Crore, 2 Bed, Builder Floor for Sale in Supertech Ecociti, Sector-137 Noida ",
+          "TYPE": "Platinum Listings: J42357267",
+          "PROJ_ID": null,
+          "PROFILEID": "15269823"
+        },
+        "QUESTIONNAIRE": [
+          {
+            "QUESTION_KEY": "DECISION_TIME",
+            "QUESTION_LABEL": "Planning to Buy within",
+            "ANSWERED": "Within 3 months",
+            "ANSWER_OPTIONS": [
+              "Within 3 months",
+              "Within 6 months",
+              "More than 6 months"
+            ]
+          },
+          {
+            "QUESTION_KEY": "SITE_VISIT",
+            "QUESTION_LABEL": "Interested in Site Visit?",
+            "ANSWERED": "Yes",
+            "ANSWER_OPTIONS": [
+              "Yes",
+              "No"
+            ]
+          }
+        ],
+        "QUERY_ID": "C2V_PROPERTY-218700235"
+      },
+      {
+        "MONGO_ID": "5c9dedec345b2c581da79757",
+        "followupCurrentStatus": "NW",
+        "CONTACT_DETAILS": {
+          "NAME": "Sagar",
+          "EMAIL": "sbs.bhola@gmail.com",
+          "PHONE": "91-9999857737",
+          "RAW_PHONE": "91-9999857737",
+          "IDENTITY": "Individual",
+          "PHONE_VERIFICATION_STATUS": "VERIFIED",
+          "EMAIL_VERIFICATION_STATUS": "UNVALIDATED"
+        },
+        "superProfileId": 15269823,
+        "subProfileId": 15269823,
+        "PROFILEID": 15269823,
+        "LEAD_SCORE": 3,
+        "BUYER_PROFILE_ID": 24967119,
+        "LEAD_DETAIL_URL": "https://www.99acres.com/leadgradient/dashboard?q=rYDh9b00tr6FZMHyAvPl%2Bn08b3q7bcUS%2FBsx6%2FGHPTckcUCNNBBaewKPEEYPZEshPFHHmebztow%2F4u6UTDupdLq0K8skYilj51bJHCMce180q1ZDwb8ESJeEehZW69KA",
+        "QUERY": "",
+        "NEW_TAG": "N",
+        "PRODUCT_ID": "Q42371133",
+        "RESPONSE_TYPE": "viewedcontact",
+        "RECEIVED_ON": "29-Mar-2019",
+        "intentVerificationStatus": null,
+        "PRODUCT_DETAILS": {
+          "ID": "Q42371133",
+          "STATUS": "Deleted",
+          "COMPACT_LABEL": "Rs. 34.01 Lac, 2 Bed, Apartment for Sale in Supertech Ecociti, Sector-137 Noida ",
+          "TYPE": "Platinum Listings: Q42371133",
+          "PROJ_ID": null,
+          "PROFILEID": "15269823"
+        },
+        "QUESTIONNAIRE": [
+          {
+            "QUESTION_KEY": "DECISION_TIME",
+            "QUESTION_LABEL": "Planning to Buy within",
+            "ANSWERED": "Within 3 months",
+            "ANSWER_OPTIONS": [
+              "Within 3 months",
+              "Within 6 months",
+              "More than 6 months"
+            ]
+          },
+          {
+            "QUESTION_KEY": "SITE_VISIT",
+            "QUESTION_LABEL": "Interested in Site Visit?",
+            "ANSWERED": "Weekday",
+            "ANSWER_OPTIONS": [
+              "Yes",
+              "No"
+            ]
+          }
+        ],
+        "QUERY_ID": "C2V_PROPERTY-218687561"
+      },
+      {
+        "MONGO_ID": "5c9dc629345b2c581da766fa",
+        "followupCurrentStatus": "NW",
+        "CONTACT_DETAILS": {
+          "NAME": "rahi",
+          "EMAIL": "rahi@mail.com",
+          "PHONE": "91-7530860734",
+          "RAW_PHONE": "91-7530860734",
+          "IDENTITY": "Dealer",
+          "PHONE_VERIFICATION_STATUS": "VERIFIED",
+          "EMAIL_VERIFICATION_STATUS": "UNVALIDATED"
+        },
+        "superProfileId": 15269823,
+        "subProfileId": 15269823,
+        "PROFILEID": 15269823,
+        "LEAD_SCORE": 3,
+        "BUYER_PROFILE_ID": 36762015,
+        "LEAD_DETAIL_URL": "https://www.99acres.com/leadgradient/dashboard?q=w89JL6NeTv8Su9dCNf00n2ho7vzWfWFeuf5GYeEqpAh9hR0fUCRNHYL1WM2%2FlH%2B1%2FvqWrOpJc4q1VYvmwACLuYdwJHwzEPfHt%2BQpGKL0FYcv%2FtrjSbEr9I6rylKKp7zu",
+        "QUERY": "",
+        "NEW_TAG": "N",
+        "PRODUCT_ID": "C42357831",
+        "RESPONSE_TYPE": "viewedcontact",
+        "RECEIVED_ON": "29-Mar-2019",
+        "intentVerificationStatus": null,
+        "PRODUCT_DETAILS": {
+          "ID": "C42357831",
+          "STATUS": "Deleted",
+          "COMPACT_LABEL": "Rs. 54 Lac, 2 Bed, Apartment for Sale in Geotech Pristine Avenue, Noida Extension ",
+          "TYPE": "Platinum Listings: C42357831",
+          "PROJ_ID": null,
+          "PROFILEID": "15269823"
+        },
+        "QUESTIONNAIRE": [
+          {
+            "QUESTION_KEY": "DECISION_TIME",
+            "QUESTION_LABEL": "Planning to Buy within",
+            "ANSWERED": null,
+            "ANSWER_OPTIONS": [
+              "Within 3 months",
+              "Within 6 months",
+              "More than 6 months"
+            ]
+          },
+          {
+            "QUESTION_KEY": "SITE_VISIT",
+            "QUESTION_LABEL": "Interested in Site Visit?",
+            "ANSWERED": null,
+            "ANSWER_OPTIONS": [
+              "Yes",
+              "No"
+            ]
+          }
+        ],
+        "QUERY_ID": "C2V_PROPERTY-218649533"
+      },
+      {
+        "MONGO_ID": "5c9dc5e5345b2c581da766a3",
+        "followupCurrentStatus": "NW",
+        "CONTACT_DETAILS": {
+          "NAME": "Sachin Test",
+          "EMAIL": "99appqa@gmail.com",
+          "PHONE": "91-7042883052",
+          "RAW_PHONE": "91-7042883052",
+          "IDENTITY": "Dealer",
+          "PHONE_VERIFICATION_STATUS": "VERIFIED",
+          "EMAIL_VERIFICATION_STATUS": "VERIFIED"
+        },
+        "superProfileId": 15269823,
+        "subProfileId": 15269823,
+        "PROFILEID": 15269823,
+        "LEAD_SCORE": 3,
+        "BUYER_PROFILE_ID": 15503333,
+        "LEAD_DETAIL_URL": "https://www.99acres.com/leadgradient/dashboard?q=tUVDLcuWH5QqR4rJUtg1L1EvcjWumcsKnjXhrY5ejc%2FlTSB2nYFgHXr9FuAmuy3K9h7GBAyLJteyW8uDvblTWTFWzyPR6%2BTKAboCxxYf1n2zheEEprxK8VGGuiYbGuKx",
+        "QUERY": "",
+        "NEW_TAG": "N",
+        "PRODUCT_ID": "C42357831",
+        "RESPONSE_TYPE": "viewedcontact",
+        "RECEIVED_ON": "29-Mar-2019",
+        "intentVerificationStatus": null,
+        "PRODUCT_DETAILS": {
+          "ID": "C42357831",
+          "STATUS": "Deleted",
+          "COMPACT_LABEL": "Rs. 54 Lac, 2 Bed, Apartment for Sale in Geotech Pristine Avenue, Noida Extension ",
+          "TYPE": "Platinum Listings: C42357831",
+          "PROJ_ID": null,
+          "PROFILEID": "15269823"
+        },
+        "QUESTIONNAIRE": [
+          {
+            "QUESTION_KEY": "DECISION_TIME",
+            "QUESTION_LABEL": "Planning to Buy within",
+            "ANSWERED": null,
+            "ANSWER_OPTIONS": [
+              "Within 3 months",
+              "Within 6 months",
+              "More than 6 months"
+            ]
+          },
+          {
+            "QUESTION_KEY": "SITE_VISIT",
+            "QUESTION_LABEL": "Interested in Site Visit?",
+            "ANSWERED": null,
+            "ANSWER_OPTIONS": [
+              "Yes",
+              "No"
+            ]
+          }
+        ],
+        "QUERY_ID": "C2V_PROPERTY-218649249"
+      },
+      {
+        "MONGO_ID": "5c9cc220338d4d0f5128229e",
+        "followupCurrentStatus": "NW",
+        "CONTACT_DETAILS": {
+          "NAME": "ramesh",
+          "EMAIL": "rameshji@mail.com",
+          "PHONE": "91-2345671123",
+          "RAW_PHONE": "91-2345671123",
+          "IDENTITY": "Individual",
+          "PHONE_VERIFICATION_STATUS": "VERIFIED",
+          "EMAIL_VERIFICATION_STATUS": "UNVALIDATED"
+        },
+        "superProfileId": 15269823,
+        "subProfileId": 15269823,
+        "PROFILEID": 15269823,
+        "LEAD_SCORE": 3,
+        "BUYER_PROFILE_ID": 37863637,
+        "LEAD_DETAIL_URL": "https://www.99acres.com/leadgradient/dashboard?q=FzJOnNUpMnZdxJCFG6uK30nhJ0qCZRV%2BO9mfMqofLhuc%2Flt5pXO%2F%2BrauEbj72TB8Xrjjwl9RFtSb2h0hgNCzE7q0K8skYilj51bJHCMce180q1ZDwb8ESJeEehZW69KA",
+        "QUERY": "",
+        "NEW_TAG": "N",
+        "PRODUCT_ID": "R42357911",
+        "RESPONSE_TYPE": "viewedcontact",
+        "RECEIVED_ON": "28-Mar-2019",
+        "intentVerificationStatus": null,
+        "PRODUCT_DETAILS": {
+          "ID": "R42357911",
+          "STATUS": "Deleted",
+          "COMPACT_LABEL": "Rs. 54.6 Lac, 2 Bed, Apartment for Sale in Geotech Pristine Avenue, Noida Extension ",
+          "TYPE": "Platinum Listings: R42357911",
+          "PROJ_ID": null,
+          "PROFILEID": "15269823"
+        },
+        "QUESTIONNAIRE": [
+          {
+            "QUESTION_KEY": "DECISION_TIME",
+            "QUESTION_LABEL": "Planning to Buy within",
+            "ANSWERED": null,
+            "ANSWER_OPTIONS": [
+              "Within 3 months",
+              "Within 6 months",
+              "More than 6 months"
+            ]
+          },
+          {
+            "QUESTION_KEY": "SITE_VISIT",
+            "QUESTION_LABEL": "Interested in Site Visit?",
+            "ANSWERED": null,
+            "ANSWER_OPTIONS": [
+              "Yes",
+              "No"
+            ]
+          }
+        ],
+        "QUERY_ID": "C2V_PROPERTY-218555709"
+      },
+      {
+        "MONGO_ID": "5c9cc20e345b2c581da6e1d1",
+        "followupCurrentStatus": "NW",
+        "CONTACT_DETAILS": {
+          "NAME": "ramesh",
+          "EMAIL": "rameshji@mail.com",
+          "PHONE": "91-2345671123",
+          "RAW_PHONE": "91-2345671123",
+          "IDENTITY": "Individual",
+          "PHONE_VERIFICATION_STATUS": "VERIFIED",
+          "EMAIL_VERIFICATION_STATUS": "UNVALIDATED"
+        },
+        "superProfileId": 15269823,
+        "subProfileId": 15269823,
+        "PROFILEID": 15269823,
+        "LEAD_SCORE": 3,
+        "BUYER_PROFILE_ID": 37863637,
+        "LEAD_DETAIL_URL": "https://www.99acres.com/leadgradient/dashboard?q=B1Jt4r4K1DXSd2AFz%2BaKXf69jX4uxOC5mQOLqp2ie4Wc%2Flt5pXO%2F%2BrauEbj72TB8Xrjjwl9RFtSb2h0hgNCzE7q0K8skYilj51bJHCMce180q1ZDwb8ESJeEehZW69KA",
+        "QUERY": "",
+        "NEW_TAG": "N",
+        "PRODUCT_ID": "R42357911",
+        "RESPONSE_TYPE": "viewedcontact",
+        "RECEIVED_ON": "28-Mar-2019",
+        "intentVerificationStatus": null,
+        "PRODUCT_DETAILS": {
+          "ID": "R42357911",
+          "STATUS": "Deleted",
+          "COMPACT_LABEL": "Rs. 54.6 Lac, 2 Bed, Apartment for Sale in Geotech Pristine Avenue, Noida Extension ",
+          "TYPE": "Platinum Listings: R42357911",
+          "PROJ_ID": null,
+          "PROFILEID": "15269823"
+        },
+        "QUESTIONNAIRE": [
+          {
+            "QUESTION_KEY": "DECISION_TIME",
+            "QUESTION_LABEL": "Planning to Buy within",
+            "ANSWERED": null,
+            "ANSWER_OPTIONS": [
+              "Within 3 months",
+              "Within 6 months",
+              "More than 6 months"
+            ]
+          },
+          {
+            "QUESTION_KEY": "SITE_VISIT",
+            "QUESTION_LABEL": "Interested in Site Visit?",
+            "ANSWERED": null,
+            "ANSWER_OPTIONS": [
+              "Yes",
+              "No"
+            ]
+          }
+        ],
+        "QUERY_ID": "C2V_PROPERTY-218555645"
+      },
+      {
+        "MONGO_ID": "5c9bbd80338d4d0f512774dc",
+        "followupCurrentStatus": "CN",
+        "CONTACT_DETAILS": {
+          "NAME": "User",
+          "EMAIL": "Not Mentioned",
+          "PHONE": "91-9650564604",
+          "RAW_PHONE": "91-9650564604",
+          "IDENTITY": "Individual",
+          "PHONE_VERIFICATION_STATUS": "VERIFIED",
+          "EMAIL_VERIFICATION_STATUS": "UNVALIDATED"
+        },
+        "superProfileId": 15269823,
+        "subProfileId": 29748783,
+        "PROFILEID": 29748783,
+        "LEAD_SCORE": null,
+        "BUYER_PROFILE_ID": 25062485,
+        "QUERY": "",
+        "NEW_TAG": "N",
+        "PRODUCT_ID": "F42085103",
+        "RESPONSE_TYPE": "viewedcontact",
+        "RECEIVED_ON": "27-Mar-2019",
+        "intentVerificationStatus": null,
+        "PRODUCT_DETAILS": {
+          "ID": "F42085103",
+          "STATUS": "Deleted",
+          "COMPACT_LABEL": "Rs. 12000, 3 Bed, Apartment for PG in 3C Knowledge Boulevard, Sector-62 Noida ",
+          "TYPE": "Platinum Listings: F42085103",
+          "PROJ_ID": null,
+          "PROFILEID": "15269823"
+        },
+        "QUESTIONNAIRE": [
+          {
+            "QUESTION_KEY": "DECISION_TIME",
+            "QUESTION_LABEL": "Planning to Buy within",
+            "ANSWERED": null,
+            "ANSWER_OPTIONS": [
+              "Within 3 months",
+              "Within 6 months",
+              "More than 6 months"
+            ]
+          },
+          {
+            "QUESTION_KEY": "SITE_VISIT",
+            "QUESTION_LABEL": "Interested in Site Visit?",
+            "ANSWERED": null,
+            "ANSWER_OPTIONS": [
+              "Yes",
+              "No"
+            ]
+          }
+        ],
+        "QUERY_ID": "C2V_PROPERTY-218426827"
+      },
+      {
+        "MONGO_ID": "5c9bb055345b2c581da62dda",
+        "followupCurrentStatus": "NW",
+        "CONTACT_DETAILS": {
+          "NAME": "Vimal Bhatia",
+          "EMAIL": "pnb.vimal@gmail.com",
+          "PHONE": "91-9871790682",
+          "RAW_PHONE": "91-9871790682",
+          "IDENTITY": "Individual",
+          "PHONE_VERIFICATION_STATUS": "VERIFIED",
+          "EMAIL_VERIFICATION_STATUS": "UNVALIDATED"
+        },
+        "superProfileId": 15269823,
+        "subProfileId": 15269823,
+        "PROFILEID": 15269823,
+        "LEAD_SCORE": 2.5,
+        "BUYER_PROFILE_ID": 3340421,
+        "LEAD_DETAIL_URL": "https://www.99acres.com/leadgradient/dashboard?q=XKHe7DNRFY%2BOyAqRzctlHDUksmq0%2B5RCruwC5JN2gWQQ%2BUe5T9Y4bsRBffLjqXTBOV2FMsBR3IPFpNHKE%2F%2FMRmBDHT%2FOvC0R6nTbOKyV5JijlpUg0OVMSs3A0sEpPQhZ",
+        "QUERY": "",
+        "NEW_TAG": "N",
+        "PRODUCT_ID": "M42086287",
+        "RESPONSE_TYPE": "viewedcontact",
+        "RECEIVED_ON": "27-Mar-2019",
+        "intentVerificationStatus": null,
+        "PRODUCT_DETAILS": {
+          "ID": "M42086287",
+          "STATUS": "Deleted",
+          "COMPACT_LABEL": "Rs. 45 Lac, Land for Sale in Supertech Ecociti, Sector-137 Noida ",
+          "TYPE": "Platinum Listings: M42086287",
+          "PROJ_ID": null,
+          "PROFILEID": "15269823"
+        },
+        "QUESTIONNAIRE": [
+          {
+            "QUESTION_KEY": "DECISION_TIME",
+            "QUESTION_LABEL": "Planning to Buy within",
+            "ANSWERED": "Within 3 months",
+            "ANSWER_OPTIONS": [
+              "Within 3 months",
+              "Within 6 months",
+              "More than 6 months"
+            ]
+          },
+          {
+            "QUESTION_KEY": "SITE_VISIT",
+            "QUESTION_LABEL": "Interested in Site Visit?",
+            "ANSWERED": "Yes",
+            "ANSWER_OPTIONS": [
+              "Yes",
+              "No"
+            ]
+          }
+        ],
+        "QUERY_ID": "C2V_PROPERTY-218423045"
+      },
+      {
+        "MONGO_ID": "5c9b97b2338d4d0f51275e89",
+        "followupCurrentStatus": "NW",
+        "CONTACT_DETAILS": {
+          "NAME": "Joshi",
+          "EMAIL": "sonjoshi1111@gmail.com",
+          "PHONE": "91-7678602997",
+          "RAW_PHONE": "91-7678602997",
+          "IDENTITY": "Individual",
+          "PHONE_VERIFICATION_STATUS": "VERIFIED",
+          "EMAIL_VERIFICATION_STATUS": "UNVALIDATED"
+        },
+        "superProfileId": 15269823,
+        "subProfileId": 15269823,
+        "PROFILEID": 15269823,
+        "LEAD_SCORE": 3,
+        "BUYER_PROFILE_ID": 24260291,
+        "LEAD_DETAIL_URL": "https://www.99acres.com/leadgradient/dashboard?q=5AV3Dc2j5TqjqHgxGTiRQfj1fMWii1tIXOmlm1yKW4W8ZAlf1qM1jp4TxpGmesD0L7TezC4oJH2gnfxd3k%2FRbAYvMtuC%2BWID%2BrzrafLyB3GXCTS%2FIK83AlVCHy6Tn6Ac",
+        "QUERY": "",
+        "NEW_TAG": "N",
+        "PRODUCT_ID": "G42080075",
+        "RESPONSE_TYPE": "viewedcontact",
+        "RECEIVED_ON": "27-Mar-2019",
+        "intentVerificationStatus": null,
+        "PRODUCT_DETAILS": {
+          "ID": "G42080075",
+          "STATUS": "Deleted",
+          "COMPACT_LABEL": "Rs. 34 Lac, 2 Bed, Apartment for Sale in Dasnac The Jewel of Noida, Sector-75 Noida ",
+          "TYPE": "Platinum Listings: G42080075",
+          "PROJ_ID": null,
+          "PROFILEID": "15269823"
+        },
+        "QUESTIONNAIRE": [
+          {
+            "QUESTION_KEY": "DECISION_TIME",
+            "QUESTION_LABEL": "Planning to Buy within",
+            "ANSWERED": null,
+            "ANSWER_OPTIONS": [
+              "Within 3 months",
+              "Within 6 months",
+              "More than 6 months"
+            ]
+          },
+          {
+            "QUESTION_KEY": "SITE_VISIT",
+            "QUESTION_LABEL": "Interested in Site Visit?",
+            "ANSWERED": null,
+            "ANSWER_OPTIONS": [
+              "Yes",
+              "No"
+            ]
+          }
+        ],
+        "QUERY_ID": "C2V_PROPERTY-218413663"
+      },
+      {
+        "MONGO_ID": "5c9a20f7338d4d0f51266107",
+        "followupCurrentStatus": "NW",
+        "CONTACT_DETAILS": {
+          "NAME": "Deepshikha Tomar",
+          "EMAIL": "deepshika.tomar101@gmail.com",
+          "PHONE": "91-8826259494",
+          "RAW_PHONE": "91-8826259494",
+          "IDENTITY": "Individual",
+          "PHONE_VERIFICATION_STATUS": "VERIFIED",
+          "EMAIL_VERIFICATION_STATUS": "UNVALIDATED"
+        },
+        "superProfileId": 15269823,
+        "subProfileId": 15269823,
+        "PROFILEID": 15269823,
+        "LEAD_SCORE": 3,
+        "BUYER_PROFILE_ID": 21231047,
+        "LEAD_DETAIL_URL": "https://www.99acres.com/leadgradient/dashboard?q=mun1Vz3NsWHaUaW8idpa7fhl3Xs3VOJ0F6ZX6lCZoWfHSevvO%2BWPe3fQkAvPvrIJ7na81JatapIr%2Btbrow%2FOrp1t%2BXZXbdSwFX0Hjrs9i4zRLdV9OHOBEwsqhDdX%2FzhV",
+        "QUERY": "",
+        "NEW_TAG": "N",
+        "PRODUCT_ID": "R42126377",
+        "RESPONSE_TYPE": "viewedcontact",
+        "RECEIVED_ON": "26-Mar-2019",
+        "intentVerificationStatus": null,
+        "PRODUCT_DETAILS": {
+          "ID": "R42126377",
+          "STATUS": "Deleted",
+          "COMPACT_LABEL": "Available on Request, 2 Bed, Apartment for Sale in Ajnara Daffodil, Sector-137 Noida ",
+          "TYPE": "Platinum Listings: R42126377",
+          "PROJ_ID": null,
+          "PROFILEID": "15269823"
+        },
+        "QUESTIONNAIRE": [
+          {
+            "QUESTION_KEY": "DECISION_TIME",
+            "QUESTION_LABEL": "Planning to Buy within",
+            "ANSWERED": "Within 6 months",
+            "ANSWER_OPTIONS": [
+              "Within 3 months",
+              "Within 6 months",
+              "More than 6 months"
+            ]
+          },
+          {
+            "QUESTION_KEY": "SITE_VISIT",
+            "QUESTION_LABEL": "Interested in Site Visit?",
+            "ANSWERED": "Yes",
+            "ANSWER_OPTIONS": [
+              "Yes",
+              "No"
+            ]
+          }
+        ],
+        "QUERY_ID": "C2V_PROPERTY-218227807"
+      },
+      {
+        "MONGO_ID": "5c99dd12338d4d0f512612b4",
+        "followupCurrentStatus": "FW",
+        "CONTACT_DETAILS": {
+          "NAME": "Mehmood",
+          "EMAIL": "Inspire.hasan@gmail.com",
+          "PHONE": "91-9871071555",
+          "RAW_PHONE": "91-9871071555",
+          "IDENTITY": "Dealer",
+          "PHONE_VERIFICATION_STATUS": "VERIFIED",
+          "EMAIL_VERIFICATION_STATUS": "VERIFIED"
+        },
+        "superProfileId": 15269823,
+        "subProfileId": 15269823,
+        "PROFILEID": 15269823,
+        "LEAD_SCORE": null,
+        "BUYER_PROFILE_ID": 10060114,
+        "QUERY": "",
+        "NEW_TAG": "N",
+        "PRODUCT_ID": "I41982801",
+        "RESPONSE_TYPE": "viewedcontact",
+        "RECEIVED_ON": "26-Mar-2019",
+        "intentVerificationStatus": null,
+        "PRODUCT_DETAILS": {
+          "ID": "I41982801",
+          "STATUS": "Deleted",
+          "COMPACT_LABEL": "Rs. 12000, 2 Bed, Apartment for Rent in Ajnara Daffodil, Sector-137 Noida ",
+          "TYPE": "Platinum Listings: I41982801",
+          "PROJ_ID": null,
+          "PROFILEID": "15269823"
+        },
+        "QUESTIONNAIRE": [
+          {
+            "QUESTION_KEY": "DECISION_TIME",
+            "QUESTION_LABEL": "Planning to Buy within",
+            "ANSWERED": null,
+            "ANSWER_OPTIONS": [
+              "Within 3 months",
+              "Within 6 months",
+              "More than 6 months"
+            ]
+          },
+          {
+            "QUESTION_KEY": "SITE_VISIT",
+            "QUESTION_LABEL": "Interested in Site Visit?",
+            "ANSWERED": null,
+            "ANSWER_OPTIONS": [
+              "Yes",
+              "No"
+            ]
+          }
+        ],
+        "QUERY_ID": "C2V_PROPERTY-218167613"
+      },
+      {
+        "MONGO_ID": "5c993dc1345b2c581da47566",
+        "followupCurrentStatus": "NW",
+        "CONTACT_DETAILS": {
+          "NAME": "Manju",
+          "EMAIL": "manjubhgw@gmail.com",
+          "PHONE": "91-8750249556",
+          "RAW_PHONE": "91-8750249556",
+          "IDENTITY": "Individual",
+          "PHONE_VERIFICATION_STATUS": "VERIFIED",
+          "EMAIL_VERIFICATION_STATUS": "UNVALIDATED"
+        },
+        "superProfileId": 15269823,
+        "subProfileId": 15269823,
+        "PROFILEID": 15269823,
+        "LEAD_SCORE": 3,
+        "BUYER_PROFILE_ID": 34287621,
+        "LEAD_DETAIL_URL": "https://www.99acres.com/leadgradient/dashboard?q=EmwbiH8E%2BSJR36yETzhLNtfPrUkyIXHoFu%2BsHEV%2BaJDiJSRxXBpuT7nxrYqXhhFxZjfVLQO3LoW2g71RpAV2xrq0K8skYilj51bJHCMce180q1ZDwb8ESJeEehZW69KA",
+        "QUERY": "",
+        "NEW_TAG": "N",
+        "PRODUCT_ID": "R42126377",
+        "RESPONSE_TYPE": "viewedcontact",
+        "RECEIVED_ON": "26-Mar-2019",
+        "intentVerificationStatus": null,
+        "PRODUCT_DETAILS": {
+          "ID": "R42126377",
+          "STATUS": "Deleted",
+          "COMPACT_LABEL": "Available on Request, 2 Bed, Apartment for Sale in Ajnara Daffodil, Sector-137 Noida ",
+          "TYPE": "Platinum Listings: R42126377",
+          "PROJ_ID": null,
+          "PROFILEID": "15269823"
+        },
+        "QUESTIONNAIRE": [
+          {
+            "QUESTION_KEY": "DECISION_TIME",
+            "QUESTION_LABEL": "Planning to Buy within",
+            "ANSWERED": null,
+            "ANSWER_OPTIONS": [
+              "Within 3 months",
+              "Within 6 months",
+              "More than 6 months"
+            ]
+          },
+          {
+            "QUESTION_KEY": "SITE_VISIT",
+            "QUESTION_LABEL": "Interested in Site Visit?",
+            "ANSWERED": null,
+            "ANSWER_OPTIONS": [
+              "Yes",
+              "No"
+            ]
+          }
+        ],
+        "QUERY_ID": "C2V_PROPERTY-218102695"
+      },
+      {
+        "MONGO_ID": "5c98e344338d4d0f51258b70",
+        "followupCurrentStatus": "NW",
+        "CONTACT_DETAILS": {
+          "NAME": "Deepak",
+          "EMAIL": "deepakkumardubey72@gmail.com",
+          "PHONE": "91-9011774771",
+          "RAW_PHONE": "91-9011774771",
+          "IDENTITY": "Dealer",
+          "PHONE_VERIFICATION_STATUS": "VERIFIED",
+          "EMAIL_VERIFICATION_STATUS": "UNVALIDATED"
+        },
+        "superProfileId": 15269823,
+        "subProfileId": 15269823,
+        "PROFILEID": 15269823,
+        "LEAD_SCORE": 3,
+        "BUYER_PROFILE_ID": 27814321,
+        "LEAD_DETAIL_URL": "https://www.99acres.com/leadgradient/dashboard?q=YyEKFwuJuMlEHlox6ShZnWOGbFiUm0cVAv3XLyzzRnAQM9u0G1%2FGa7hwIgzdqvOd8QiqWYE9U2rrLi1b%2FicpHykePdresloFqsyv13i3Tsr8E7CsyTBveFl%2FOHuiDdnN",
+        "QUERY": "",
+        "NEW_TAG": "N",
+        "PRODUCT_ID": "C42283381",
+        "RESPONSE_TYPE": "viewedcontact",
+        "RECEIVED_ON": "25-Mar-2019",
+        "intentVerificationStatus": null,
+        "PRODUCT_DETAILS": {
+          "ID": "C42283381",
+          "STATUS": "Deleted",
+          "COMPACT_LABEL": "Rs. 56 Lac, Land for Sale in Supertech Ecociti, Sector-137 Noida ",
+          "TYPE": "Platinum Listings: C42283381",
+          "PROJ_ID": null,
+          "PROFILEID": "15269823"
+        },
+        "QUESTIONNAIRE": [
+          {
+            "QUESTION_KEY": "DECISION_TIME",
+            "QUESTION_LABEL": "Planning to Buy within",
+            "ANSWERED": "Within 3 months",
+            "ANSWER_OPTIONS": [
+              "Within 3 months",
+              "Within 6 months",
+              "More than 6 months"
+            ]
+          },
+          {
+            "QUESTION_KEY": "SITE_VISIT",
+            "QUESTION_LABEL": "Interested in Site Visit?",
+            "ANSWERED": "Yes",
+            "ANSWER_OPTIONS": [
+              "Yes",
+              "No"
+            ]
+          }
+        ],
+        "QUERY_ID": "C2V_PROPERTY-218074857"
+      }
+    ],
+    "newTagCount": 0,
+    "count": 639
+  },
+  "metainfo": {
+    "statusCode": "0",
+    "statusMessage": "OK",
+    "processing_time": 1.0124709606171,
+    "loggedin": true,
+    "99_ab": "28",
+    "session_id": "nIyzQaykCMULINkjEAKHnOfzzu/1OvrPv1KZB0FqoMCKMZCNYvpc89tievPnYatE28uBWbcd0PTpvCp9k3O20w==",
+    "X-REQUEST-ID": "48962831754904972261"
+  }
+}
